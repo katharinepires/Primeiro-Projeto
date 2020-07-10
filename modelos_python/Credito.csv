@@ -1,0 +1,1001 @@
+CHEQUEESPECIAL;USO_CREDITO;HISTORICO_CREDITO;PROPOSITO;BALANCO_ATUAL;BALANCO_MEDIO_CREDITO;EMPREGADO;LOCAL;ESTADOCIVIL;OUTRASFUNCOES;RESIDENCIADESDE;TIPOSBENS;IDADE;OUTROSPLANOSPGTO;RESIDENCIA;CREDITOSEXISTENTES;EMPREGO;DEPENDENTES;TRABAESTRANGEIRO;CLASSE
+<0;6;crítica / outros de crédito existente;Computador/TV;1169;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;bens imóveis;67;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;48;existente e pago;Computador/TV;5951;<100;1<=X<4;2;fem div/cas;nenhum;2;bens imóveis;22;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;educação;2096;<100;4<=X<7;2;masculino solteiro;nenhum;3;bens imóveis;49;nenhum;própria;1;não especializado;2;sim;bom
+<0;42;existente e pago;mobilia/equipamento;7882;<100;4<=X<7;2;masculino solteiro;fiador;4;seguro de vida;45;nenhum;gratuitamente;1;especializado;2;sim;bom
+<0;24;atrasos anteriores;carro novo;4870;<100;1<=X<4;3;masculino solteiro;nenhum;4;nenhuma conhecida;53;nenhum;gratuitamente;2;especializado;2;sim;ruim
+sem cheque;36;existente e pago;educação;9055;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;4;nenhuma conhecida;35;nenhum;gratuitamente;1;não especializado;2;sim;bom
+sem cheque;24;existente e pago;mobilia/equipamento;2835;500<=X<1000;>=7;3;masculino solteiro;nenhum;4;seguro de vida;53;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;36;existente e pago;carro usado;6948;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;35;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;3059;>=1000;4<=X<7;2;masculino div/sep;nenhum;4;bens imóveis;61;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;30;crítica / outros de crédito existente;carro novo;5234;<100;desempregado;4;masculino casado/viuvo;nenhum;2;carro;28;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;12;existente e pago;carro novo;1295;<100;<1;3;fem div/cas;nenhum;1;carro;25;nenhum;alugada;1;especializado;1;sim;ruim
+<0;48;existente e pago;negócios;4308;<100;<1;3;fem div/cas;nenhum;4;seguro de vida;24;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;12;existente e pago;Computador/TV;1567;<100;1<=X<4;1;fem div/cas;nenhum;1;carro;22;nenhum;própria;1;especializado;1;sim;bom
+<0;24;crítica / outros de crédito existente;carro novo;1199;<100;>=7;4;masculino solteiro;nenhum;4;carro;60;nenhum;própria;2;não especializado;1;sim;ruim
+<0;15;existente e pago;carro novo;1403;<100;1<=X<4;2;fem div/cas;nenhum;4;carro;28;nenhum;alugada;1;especializado;1;sim;bom
+<0;24;existente e pago;Computador/TV;1282;100<=X<500;1<=X<4;4;fem div/cas;nenhum;2;carro;32;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2424;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;53;nenhum;própria;2;especializado;1;sim;bom
+<0;30;sem créditos/todos pagos;negócios;8072;nenhuma economia conhecida;<1;2;masculino solteiro;nenhum;3;carro;25;banco;própria;3;especializado;1;sim;bom
+0<=X<200;24;existente e pago;carro usado;12579;<100;>=7;4;fem div/cas;nenhum;2;nenhuma conhecida;44;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;24;existente e pago;Computador/TV;3430;500<=X<1000;>=7;3;masculino solteiro;nenhum;2;carro;31;nenhum;própria;1;especializado;2;sim;bom
+sem cheque;9;crítica / outros de crédito existente;carro novo;2134;<100;1<=X<4;4;masculino solteiro;nenhum;4;carro;48;nenhum;própria;3;especializado;1;sim;bom
+<0;6;existente e pago;Computador/TV;2647;500<=X<1000;1<=X<4;2;masculino solteiro;nenhum;3;bens imóveis;44;nenhum;alugada;1;especializado;2;sim;bom
+<0;10;crítica / outros de crédito existente;carro novo;2241;<100;<1;1;masculino solteiro;nenhum;3;bens imóveis;48;nenhum;alugada;2;não especializado;2;não;bom
+0<=X<200;12;crítica / outros de crédito existente;carro usado;1804;100<=X<500;<1;3;masculino solteiro;nenhum;4;seguro de vida;44;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;10;crítica / outros de crédito existente;mobilia/equipamento;2069;nenhuma economia conhecida;1<=X<4;2;masculino casado/viuvo;nenhum;1;carro;26;nenhum;própria;2;especializado;1;não;bom
+<0;6;existente e pago;mobilia/equipamento;1374;<100;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;36;banco;própria;1;não especializado;1;sim;bom
+sem cheque;6;sem créditos/todos pagos;Computador/TV;426;<100;>=7;4;masculino casado/viuvo;nenhum;4;carro;39;nenhum;própria;1;não especializado;1;sim;bom
+>=200;12;todos pagos;Computador/TV;409;>=1000;1<=X<4;3;fem div/cas;nenhum;3;bens imóveis;42;nenhum;alugada;2;especializado;1;sim;bom
+0<=X<200;7;existente e pago;Computador/TV;2415;<100;1<=X<4;3;masculino solteiro;fiador;2;bens imóveis;34;nenhum;própria;1;especializado;1;sim;bom
+<0;60;atrasos anteriores;negócios;6836;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;63;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;18;existente e pago;negócios;1913;>=1000;<1;3;masculino casado/viuvo;nenhum;3;bens imóveis;36;banco;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;mobilia/equipamento;4020;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;27;stores;própria;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;carro novo;5866;100<=X<500;1<=X<4;2;masculino solteiro;nenhum;2;carro;30;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;negócios;1264;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;57;nenhum;alugada;1;não especializado;1;sim;bom
+>=200;12;existente e pago;mobilia/equipamento;1474;<100;<1;4;fem div/cas;nenhum;1;seguro de vida;33;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;45;crítica / outros de crédito existente;Computador/TV;4746;<100;<1;4;masculino solteiro;nenhum;2;seguro de vida;25;nenhum;própria;2;não especializado;1;sim;ruim
+sem cheque;48;crítica / outros de crédito existente;educação;6110;<100;1<=X<4;1;masculino solteiro;nenhum;3;nenhuma conhecida;31;banco;gratuitamente;1;especializado;1;sim;bom
+>=200;18;existente e pago;Computador/TV;2100;<100;1<=X<4;4;masculino solteiro;co requerente;2;bens imóveis;37;stores;própria;1;especializado;1;sim;ruim
+>=200;10;existente e pago;Eletrodomésticos;1225;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;37;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;existente e pago;Computador/TV;458;<100;1<=X<4;4;masculino solteiro;nenhum;3;bens imóveis;24;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;30;existente e pago;Computador/TV;2333;500<=X<1000;>=7;4;masculino solteiro;nenhum;2;carro;30;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1158;500<=X<1000;1<=X<4;3;masculino div/sep;nenhum;1;carro;26;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;atrasos anteriores;obras;6204;<100;1<=X<4;2;masculino solteiro;nenhum;4;bens imóveis;44;nenhum;própria;1;não especializado;2;sim;bom
+<0;30;crítica / outros de crédito existente;carro usado;6187;100<=X<500;4<=X<7;1;masculino casado/viuvo;nenhum;4;carro;24;nenhum;alugada;2;especializado;1;sim;bom
+<0;48;crítica / outros de crédito existente;carro usado;6143;<100;>=7;4;fem div/cas;nenhum;4;nenhuma conhecida;58;stores;gratuitamente;2;não especializado;1;sim;ruim
+sem cheque;11;crítica / outros de crédito existente;carro novo;1393;<100;<1;4;fem div/cas;nenhum;4;carro;35;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;36;existente e pago;Computador/TV;2299;500<=X<1000;>=7;4;masculino solteiro;nenhum;4;carro;39;nenhum;própria;1;especializado;1;sim;bom
+<0;6;existente e pago;carro usado;1352;500<=X<1000;desempregado;1;fem div/cas;nenhum;2;seguro de vida;23;nenhum;alugada;1;unemp/unespecializado non res;1;sim;bom
+sem cheque;11;crítica / outros de crédito existente;carro novo;7228;<100;1<=X<4;1;masculino solteiro;nenhum;4;seguro de vida;39;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;2073;100<=X<500;1<=X<4;4;fem div/cas;co requerente;2;bens imóveis;28;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;24;atrasos anteriores;mobilia/equipamento;2333;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;2;seguro de vida;29;banco;própria;1;não especializado;1;sim;bom
+0<=X<200;27;atrasos anteriores;carro usado;5965;<100;>=7;1;masculino solteiro;nenhum;2;carro;30;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;1262;<100;1<=X<4;3;masculino solteiro;nenhum;2;carro;25;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;carro usado;3378;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;1;seguro de vida;31;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;36;atrasos anteriores;carro novo;2225;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;57;banco;gratuitamente;2;especializado;1;sim;ruim
+sem cheque;6;todos pagos;carro novo;783;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;fiador;2;bens imóveis;26;stores;própria;1;não especializado;2;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;6468;nenhuma economia conhecida;desempregado;2;masculino solteiro;nenhum;1;nenhuma conhecida;52;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;Computador/TV;9566;<100;1<=X<4;2;fem div/cas;nenhum;2;carro;31;stores;própria;2;especializado;1;sim;bom
+>=200;18;existente e pago;carro novo;1961;<100;>=7;3;fem div/cas;nenhum;2;carro;23;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;36;crítica / outros de crédito existente;mobilia/equipamento;6229;<100;<1;4;fem div/cas;co requerente;4;nenhuma conhecida;23;nenhum;alugada;2;não especializado;1;sim;ruim
+0<=X<200;9;existente e pago;negócios;1391;<100;1<=X<4;2;masculino casado/viuvo;nenhum;1;bens imóveis;27;banco;própria;1;especializado;1;sim;bom
+0<=X<200;15;crítica / outros de crédito existente;Computador/TV;1537;nenhuma economia conhecida;>=7;4;masculino solteiro;fiador;4;bens imóveis;50;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;36;sem créditos/todos pagos;negócios;1953;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;61;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;48;sem créditos/todos pagos;negócios;14421;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;25;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;existente e pago;Computador/TV;3181;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;27;existente e pago;obras;5190;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;48;nenhum;própria;4;especializado;2;sim;bom
+sem cheque;12;existente e pago;Computador/TV;2171;<100;<1;2;fem div/cas;nenhum;2;carro;29;banco;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;1007;>=1000;1<=X<4;4;masculino casado/viuvo;nenhum;1;bens imóveis;22;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;36;existente e pago;educação;1819;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;37;stores;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;36;existente e pago;Computador/TV;2394;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;4;carro;25;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;36;existente e pago;carro usado;8133;<100;1<=X<4;1;fem div/cas;nenhum;2;seguro de vida;30;banco;própria;1;especializado;1;sim;bom
+sem cheque;7;crítica / outros de crédito existente;Computador/TV;730;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;2;seguro de vida;46;nenhum;alugada;2;não especializado;1;sim;bom
+<0;8;crítica / outros de crédito existente;outros;1164;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;51;banco;gratuitamente;2;alta qualificação/autonomo/Gerente;2;sim;bom
+0<=X<200;42;crítica / outros de crédito existente;negócios;5954;<100;4<=X<7;2;fem div/cas;nenhum;1;bens imóveis;41;banco;própria;2;não especializado;1;sim;bom
+<0;36;existente e pago;educação;1977;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;40;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;12;crítica / outros de crédito existente;carro usado;1526;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;66;nenhum;gratuitamente;2;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;42;existente e pago;Computador/TV;3965;<100;<1;4;masculino solteiro;nenhum;3;carro;34;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;11;atrasos anteriores;Computador/TV;4771;<100;4<=X<7;2;masculino solteiro;nenhum;4;seguro de vida;51;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;54;sem créditos/todos pagos;carro usado;9436;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;2;seguro de vida;39;nenhum;própria;1;não especializado;2;sim;bom
+0<=X<200;30;existente e pago;mobilia/equipamento;3832;<100;<1;2;masculino casado/viuvo;nenhum;1;seguro de vida;22;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;5943;nenhuma economia conhecida;<1;1;fem div/cas;nenhum;1;carro;44;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;15;existente e pago;Computador/TV;1213;500<=X<1000;>=7;4;masculino solteiro;nenhum;3;seguro de vida;47;stores;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;negócios;1568;100<=X<500;1<=X<4;3;fem div/cas;nenhum;4;seguro de vida;24;nenhum;alugada;1;não especializado;1;sim;bom
+<0;24;existente e pago;outros;1755;<100;>=7;4;fem div/cas;fiador;4;bens imóveis;58;nenhum;própria;1;não especializado;1;sim;bom
+<0;10;existente e pago;Computador/TV;2315;<100;>=7;3;masculino solteiro;nenhum;4;bens imóveis;52;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;negócios;1412;<100;1<=X<4;4;fem div/cas;fiador;2;bens imóveis;29;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;mobilia/equipamento;1295;<100;<1;4;fem div/cas;nenhum;1;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;36;existente e pago;educação;12612;100<=X<500;1<=X<4;1;masculino solteiro;nenhum;4;nenhuma conhecida;47;nenhum;gratuitamente;1;especializado;2;sim;ruim
+<0;18;existente e pago;carro novo;2249;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;3;carro;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;2;sim;bom
+<0;12;sem créditos/todos pagos;obras;1108;<100;4<=X<7;4;masculino solteiro;nenhum;3;bens imóveis;28;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;618;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;56;nenhum;própria;1;especializado;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro usado;1409;<100;>=7;4;masculino solteiro;nenhum;3;bens imóveis;54;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;797;nenhuma economia conhecida;>=7;4;fem div/cas;nenhum;3;seguro de vida;33;banco;própria;1;não especializado;2;sim;ruim
+>=200;24;crítica / outros de crédito existente;mobilia/equipamento;3617;nenhuma economia conhecida;>=7;4;masculino solteiro;co requerente;4;nenhuma conhecida;20;nenhum;alugada;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;1318;>=1000;>=7;4;masculino solteiro;nenhum;4;bens imóveis;54;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;54;sem créditos/todos pagos;negócios;15945;<100;<1;3;masculino solteiro;nenhum;4;nenhuma conhecida;58;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;educação;2012;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;2;carro;61;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;negócios;2622;100<=X<500;1<=X<4;4;masculino solteiro;nenhum;4;carro;34;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;36;crítica / outros de crédito existente;Computador/TV;2337;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;20;atrasos anteriores;carro usado;7057;nenhuma economia conhecida;4<=X<7;3;masculino solteiro;nenhum;4;seguro de vida;36;banco;alugada;2;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;24;existente e pago;carro novo;1469;100<=X<500;>=7;4;masculino casado/viuvo;nenhum;4;bens imóveis;41;nenhum;alugada;1;não especializado;1;sim;bom
+0<=X<200;36;existente e pago;Computador/TV;2323;<100;4<=X<7;4;masculino solteiro;nenhum;4;carro;24;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;6;atrasos anteriores;Computador/TV;932;<100;1<=X<4;3;fem div/cas;nenhum;2;bens imóveis;24;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;crítica / outros de crédito existente;mobilia/equipamento;1919;<100;4<=X<7;4;masculino solteiro;nenhum;3;carro;35;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;12;existente e pago;carro usado;2445;nenhuma economia conhecida;<1;2;masculino casado/viuvo;nenhum;4;carro;26;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;outros;11938;<100;1<=X<4;2;masculino solteiro;co requerente;3;carro;39;nenhum;própria;2;alta qualificação/autonomo/Gerente;2;sim;ruim
+sem cheque;18;todos pagos;carro novo;6458;<100;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;39;banco;própria;2;alta qualificação/autonomo/Gerente;2;sim;ruim
+0<=X<200;12;existente e pago;carro novo;6078;<100;4<=X<7;2;masculino solteiro;nenhum;2;carro;32;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;mobilia/equipamento;7721;nenhuma economia conhecida;<1;1;fem div/cas;nenhum;2;seguro de vida;30;nenhum;própria;1;especializado;1;não;bom
+0<=X<200;14;existente e pago;negócios;1410;500<=X<1000;>=7;1;masculino casado/viuvo;nenhum;2;bens imóveis;35;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;6;atrasos anteriores;negócios;1449;100<=X<500;>=7;1;masculino div/sep;nenhum;2;carro;31;banco;própria;2;especializado;2;sim;bom
+>=200;15;existente e pago;educação;392;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;23;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;carro novo;6260;<100;4<=X<7;3;masculino solteiro;nenhum;3;bens imóveis;28;nenhum;alugada;1;não especializado;1;sim;bom
+sem cheque;36;crítica / outros de crédito existente;carro novo;7855;<100;1<=X<4;4;fem div/cas;nenhum;2;bens imóveis;25;stores;própria;2;especializado;1;sim;ruim
+<0;12;existente e pago;Computador/TV;1680;500<=X<1000;>=7;3;masculino casado/viuvo;nenhum;1;bens imóveis;35;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;48;crítica / outros de crédito existente;Computador/TV;3578;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;1;bens imóveis;47;nenhum;própria;1;especializado;1;sim;bom
+<0;42;existente e pago;Computador/TV;7174;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;3;carro;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;10;crítica / outros de crédito existente;mobilia/equipamento;2132;nenhuma economia conhecida;<1;2;fem div/cas;co requerente;3;bens imóveis;27;nenhum;alugada;2;especializado;1;não;bom
+<0;33;crítica / outros de crédito existente;mobilia/equipamento;4281;500<=X<1000;1<=X<4;1;fem div/cas;nenhum;4;carro;23;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;12;crítica / outros de crédito existente;carro novo;2366;500<=X<1000;4<=X<7;3;masculino div/sep;nenhum;3;carro;36;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;21;existente e pago;Computador/TV;1835;<100;1<=X<4;3;fem div/cas;nenhum;2;bens imóveis;25;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro usado;3868;<100;>=7;4;fem div/cas;nenhum;2;carro;41;nenhum;alugada;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;mobilia/equipamento;1768;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;24;nenhum;alugada;1;não especializado;1;sim;bom
+>=200;10;crítica / outros de crédito existente;carro novo;781;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;63;nenhum;gratuitamente;2;especializado;1;sim;bom
+0<=X<200;18;existente e pago;mobilia/equipamento;1924;nenhuma economia conhecida;<1;4;fem div/cas;nenhum;3;bens imóveis;27;nenhum;alugada;1;especializado;1;sim;ruim
+<0;12;crítica / outros de crédito existente;carro novo;2121;<100;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;30;nenhum;própria;2;especializado;1;sim;bom
+<0;12;existente e pago;Computador/TV;701;<100;1<=X<4;4;masculino casado/viuvo;nenhum;2;bens imóveis;40;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;12;existente e pago;obras;639;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;30;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;12;crítica / outros de crédito existente;carro usado;1860;<100;desempregado;4;masculino solteiro;nenhum;2;carro;34;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro novo;3499;<100;1<=X<4;3;fem div/cas;co requerente;2;bens imóveis;29;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;48;existente e pago;carro novo;8487;nenhuma economia conhecida;4<=X<7;1;fem div/cas;nenhum;2;carro;24;nenhum;própria;1;especializado;1;sim;bom
+<0;36;atrasos anteriores;educação;6887;<100;1<=X<4;4;masculino solteiro;nenhum;3;seguro de vida;29;stores;própria;1;especializado;1;sim;ruim
+sem cheque;15;existente e pago;mobilia/equipamento;2708;<100;<1;2;masculino solteiro;nenhum;3;seguro de vida;27;banco;própria;2;não especializado;1;sim;bom
+sem cheque;18;existente e pago;mobilia/equipamento;1984;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;47;banco;gratuitamente;2;especializado;1;sim;bom
+sem cheque;60;existente e pago;Computador/TV;10144;100<=X<500;4<=X<7;2;fem div/cas;nenhum;4;bens imóveis;21;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;1240;nenhuma economia conhecida;>=7;4;fem div/cas;nenhum;2;bens imóveis;38;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;27;atrasos anteriores;carro usado;8613;>=1000;1<=X<4;2;masculino solteiro;nenhum;2;carro;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;766;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;3;bens imóveis;66;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;15;crítica / outros de crédito existente;Computador/TV;2728;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;fiador;2;bens imóveis;35;banco;própria;3;especializado;1;sim;bom
+>=200;12;existente e pago;Computador/TV;1881;<100;1<=X<4;2;fem div/cas;nenhum;2;carro;44;nenhum;alugada;1;não especializado;1;sim;bom
+>=200;6;existente e pago;carro novo;709;>=1000;<1;2;masculino casado/viuvo;nenhum;2;bens imóveis;27;nenhum;própria;1;unemp/unespecializado non res;1;não;bom
+0<=X<200;36;existente e pago;Computador/TV;4795;<100;<1;4;fem div/cas;nenhum;1;nenhuma conhecida;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;27;existente e pago;Computador/TV;3416;<100;1<=X<4;3;masculino solteiro;nenhum;2;carro;27;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;2462;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;22;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;21;crítica / outros de crédito existente;mobilia/equipamento;2288;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;23;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;48;todos pagos;negócios;3566;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;2;carro;30;nenhum;própria;1;especializado;1;sim;bom
+<0;6;crítica / outros de crédito existente;carro novo;860;<100;>=7;1;fem div/cas;nenhum;4;nenhuma conhecida;39;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;carro novo;682;100<=X<500;4<=X<7;4;fem div/cas;nenhum;3;carro;51;nenhum;própria;2;especializado;1;sim;bom
+<0;36;crítica / outros de crédito existente;mobilia/equipamento;5371;<100;1<=X<4;3;masculino solteiro;fiador;2;seguro de vida;28;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;1582;>=1000;>=7;4;masculino solteiro;nenhum;4;carro;46;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;6;existente e pago;Computador/TV;1346;100<=X<500;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;42;banco;gratuitamente;1;especializado;2;sim;bom
+sem cheque;10;existente e pago;Computador/TV;1924;<100;1<=X<4;1;masculino solteiro;nenhum;4;seguro de vida;38;nenhum;própria;1;especializado;1;não;bom
+>=200;36;existente e pago;Computador/TV;5848;<100;1<=X<4;4;masculino solteiro;nenhum;1;carro;24;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;carro usado;7758;>=1000;>=7;2;fem div/cas;nenhum;4;nenhuma conhecida;29;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;24;atrasos anteriores;negócios;6967;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;4;carro;36;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;1282;<100;1<=X<4;2;fem div/cas;nenhum;4;carro;20;nenhum;alugada;1;especializado;1;sim;ruim
+<0;9;crítica / outros de crédito existente;obras;1288;100<=X<500;>=7;3;masculino solteiro;fiador;4;bens imóveis;48;nenhum;própria;2;especializado;2;não;bom
+<0;12;todos pagos;qualificação;339;<100;>=7;4;masculino casado/viuvo;nenhum;1;carro;45;banco;própria;1;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;carro novo;3512;100<=X<500;4<=X<7;2;masculino solteiro;nenhum;3;carro;38;banco;própria;2;especializado;1;sim;bom
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;1898;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;34;nenhum;própria;2;não especializado;2;sim;bom
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2872;100<=X<500;>=7;3;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;1;especializado;2;sim;bom
+sem cheque;18;crítica / outros de crédito existente;carro novo;1055;<100;<1;4;fem div/cas;nenhum;1;seguro de vida;30;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;15;existente e pago;Eletrodomésticos;1262;500<=X<1000;4<=X<7;4;masculino solteiro;nenhum;3;seguro de vida;36;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;10;existente e pago;carro novo;7308;<100;desempregado;2;masculino solteiro;nenhum;4;nenhuma conhecida;70;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;36;existente e pago;carro novo;909;500<=X<1000;>=7;4;masculino solteiro;nenhum;4;seguro de vida;36;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;6;existente e pago;mobilia/equipamento;2978;500<=X<1000;1<=X<4;1;masculino solteiro;nenhum;2;carro;32;nenhum;própria;1;especializado;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;1131;<100;desempregado;4;fem div/cas;nenhum;2;carro;33;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;11;existente e pago;mobilia/equipamento;1577;>=1000;<1;4;fem div/cas;nenhum;1;bens imóveis;20;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;mobilia/equipamento;3972;<100;4<=X<7;2;fem div/cas;nenhum;4;seguro de vida;25;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;negócios;1935;<100;>=7;4;masculino div/sep;nenhum;4;bens imóveis;31;nenhum;própria;2;especializado;1;sim;ruim
+<0;15;sem créditos/todos pagos;carro novo;950;<100;>=7;4;masculino solteiro;nenhum;3;carro;33;nenhum;alugada;2;especializado;2;sim;ruim
+sem cheque;12;existente e pago;mobilia/equipamento;763;<100;1<=X<4;4;fem div/cas;nenhum;1;bens imóveis;26;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;24;atrasos anteriores;mobilia/equipamento;2064;<100;desempregado;3;fem div/cas;nenhum;2;seguro de vida;34;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;8;existente e pago;Computador/TV;1414;<100;1<=X<4;4;masculino solteiro;fiador;2;bens imóveis;33;nenhum;própria;1;especializado;1;não;bom
+<0;21;atrasos anteriores;educação;3414;<100;<1;2;masculino solteiro;nenhum;1;seguro de vida;26;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;30;todos pagos;carro usado;7485;nenhuma economia conhecida;desempregado;4;fem div/cas;nenhum;1;bens imóveis;53;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;12;existente e pago;mobilia/equipamento;2577;<100;1<=X<4;2;masculino div/sep;nenhum;1;carro;42;nenhum;própria;1;especializado;1;sim;bom
+<0;6;crítica / outros de crédito existente;Computador/TV;338;500<=X<1000;>=7;4;masculino solteiro;nenhum;4;carro;52;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;1963;<100;4<=X<7;4;masculino solteiro;nenhum;2;carro;31;nenhum;alugada;2;alta qualificação/autonomo/Gerente;2;sim;bom
+<0;21;crítica / outros de crédito existente;carro novo;571;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;65;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;36;atrasos anteriores;negócios;9572;<100;<1;1;masculino div/sep;nenhum;1;carro;28;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;36;atrasos anteriores;negócios;4455;<100;1<=X<4;2;masculino div/sep;nenhum;2;bens imóveis;30;stores;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;21;todos pagos;carro novo;1647;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;40;nenhum;própria;2;não especializado;2;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;mobilia/equipamento;3777;>=1000;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;50;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;carro novo;884;<100;>=7;4;masculino solteiro;nenhum;4;carro;36;banco;própria;1;especializado;2;sim;ruim
+sem cheque;15;crítica / outros de crédito existente;Computador/TV;1360;<100;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;31;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;9;todos pagos;carro usado;5129;<100;>=7;2;fem div/cas;nenhum;4;nenhuma conhecida;74;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;2;sim;ruim
+0<=X<200;16;crítica / outros de crédito existente;carro novo;1175;<100;desempregado;2;masculino solteiro;nenhum;3;carro;68;nenhum;gratuitamente;3;unemp/unespecializado non res;1;sim;bom
+<0;12;existente e pago;Computador/TV;674;100<=X<500;4<=X<7;4;masculino casado/viuvo;nenhum;1;seguro de vida;20;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;18;sem créditos/todos pagos;mobilia/equipamento;3244;<100;1<=X<4;1;fem div/cas;nenhum;4;carro;33;banco;própria;2;especializado;1;sim;bom
+sem cheque;24;existente e pago;negócios;4591;>=1000;1<=X<4;2;masculino solteiro;nenhum;3;seguro de vida;54;nenhum;própria;3;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;48;sem créditos/todos pagos;negócios;3844;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;4;nenhuma conhecida;34;nenhum;gratuitamente;1;não especializado;2;sim;ruim
+0<=X<200;27;existente e pago;negócios;3915;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;36;nenhum;própria;1;especializado;2;sim;ruim
+sem cheque;6;existente e pago;Computador/TV;2108;<100;4<=X<7;2;masculino casado/viuvo;nenhum;2;bens imóveis;29;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;45;existente e pago;Computador/TV;3031;100<=X<500;1<=X<4;4;masculino solteiro;fiador;4;seguro de vida;21;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;9;crítica / outros de crédito existente;educação;1501;<100;>=7;2;fem div/cas;nenhum;3;carro;34;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;1382;<100;1<=X<4;1;fem div/cas;nenhum;1;carro;28;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;mobilia/equipamento;951;100<=X<500;<1;4;fem div/cas;nenhum;4;carro;27;banco;alugada;4;especializado;1;sim;ruim
+0<=X<200;24;existente e pago;carro usado;2760;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;36;banco;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;18;atrasos anteriores;mobilia/equipamento;4297;<100;>=7;4;masculino div/sep;nenhum;3;nenhuma conhecida;40;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;9;crítica / outros de crédito existente;educação;936;500<=X<1000;>=7;4;masculino solteiro;nenhum;2;carro;52;nenhum;própria;2;especializado;1;sim;bom
+<0;12;existente e pago;carro novo;1168;<100;1<=X<4;4;masculino casado/viuvo;nenhum;3;bens imóveis;27;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;27;atrasos anteriores;negócios;5117;<100;4<=X<7;3;masculino solteiro;nenhum;4;carro;26;nenhum;própria;2;especializado;1;sim;bom
+<0;12;existente e pago;qualificação;902;<100;4<=X<7;4;masculino casado/viuvo;nenhum;4;seguro de vida;21;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;carro novo;1495;<100;>=7;4;masculino solteiro;nenhum;1;bens imóveis;38;nenhum;própria;2;não especializado;2;sim;bom
+<0;30;crítica / outros de crédito existente;carro usado;10623;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;38;nenhum;gratuitamente;3;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;1935;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;43;nenhum;própria;3;especializado;1;sim;bom
+0<=X<200;12;crítica / outros de crédito existente;Eletrodomésticos;1424;<100;4<=X<7;4;masculino solteiro;nenhum;3;seguro de vida;26;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;negócios;6568;<100;1<=X<4;2;masculino casado/viuvo;nenhum;2;carro;21;stores;própria;1;não especializado;1;sim;bom
+sem cheque;12;existente e pago;carro usado;1413;>=1000;4<=X<7;3;masculino solteiro;nenhum;2;seguro de vida;55;nenhum;própria;1;especializado;1;não;bom
+sem cheque;9;crítica / outros de crédito existente;Computador/TV;3074;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;33;nenhum;própria;2;especializado;2;sim;bom
+sem cheque;36;existente e pago;Computador/TV;3835;nenhuma economia conhecida;>=7;2;fem div/cas;nenhum;4;bens imóveis;45;nenhum;própria;1;não especializado;1;sim;bom
+<0;27;sem créditos/todos pagos;negócios;5293;<100;desempregado;2;masculino solteiro;nenhum;4;seguro de vida;50;stores;própria;2;especializado;1;sim;ruim
+>=200;30;atrasos anteriores;negócios;1908;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;66;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;Computador/TV;3342;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;2;carro;51;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;6;crítica / outros de crédito existente;qualificação;932;nenhuma economia conhecida;4<=X<7;1;fem div/cas;nenhum;3;seguro de vida;39;nenhum;própria;2;não especializado;1;sim;bom
+<0;18;sem créditos/todos pagos;negócios;3104;<100;4<=X<7;3;masculino solteiro;nenhum;1;seguro de vida;31;banco;própria;1;especializado;1;sim;bom
+>=200;36;existente e pago;Computador/TV;3913;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;23;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;mobilia/equipamento;3021;<100;1<=X<4;2;masculino div/sep;nenhum;2;bens imóveis;24;nenhum;alugada;1;não especializado;1;sim;bom
+sem cheque;10;existente e pago;carro novo;1364;<100;1<=X<4;2;fem div/cas;nenhum;4;carro;64;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;625;<100;<1;4;masculino casado/viuvo;fiador;1;bens imóveis;26;banco;própria;1;não especializado;1;sim;bom
+<0;12;existente e pago;educação;1200;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;4;seguro de vida;23;banco;alugada;1;especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;707;<100;1<=X<4;4;masculino solteiro;nenhum;2;bens imóveis;30;banco;própria;2;especializado;1;sim;bom
+sem cheque;24;atrasos anteriores;negócios;2978;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;32;nenhum;própria;2;especializado;2;sim;bom
+sem cheque;15;existente e pago;carro usado;4657;<100;1<=X<4;3;masculino solteiro;nenhum;2;carro;30;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;36;sem créditos/todos pagos;obras;2613;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;48;existente e pago;Computador/TV;10961;>=1000;4<=X<7;1;masculino solteiro;co requerente;2;nenhuma conhecida;27;banco;própria;2;especializado;1;sim;ruim
+<0;12;existente e pago;mobilia/equipamento;7865;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;53;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;9;existente e pago;Computador/TV;1478;<100;4<=X<7;4;masculino solteiro;nenhum;2;carro;22;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;mobilia/equipamento;3149;<100;<1;4;masculino solteiro;nenhum;1;nenhuma conhecida;22;banco;gratuitamente;1;especializado;1;sim;bom
+>=200;36;existente e pago;Computador/TV;4210;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;26;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;9;existente e pago;carro novo;2507;500<=X<1000;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;51;nenhum;gratuitamente;1;não especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;2141;100<=X<500;4<=X<7;3;masculino solteiro;nenhum;1;nenhuma conhecida;35;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;Computador/TV;866;<100;1<=X<4;4;masculino casado/viuvo;fiador;2;bens imóveis;25;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;4;crítica / outros de crédito existente;Computador/TV;1544;<100;4<=X<7;2;masculino solteiro;nenhum;1;bens imóveis;42;nenhum;própria;3;não especializado;2;sim;bom
+<0;24;existente e pago;Computador/TV;1823;<100;desempregado;4;masculino solteiro;nenhum;2;carro;30;stores;própria;1;alta qualificação/autonomo/Gerente;2;sim;ruim
+0<=X<200;6;existente e pago;carro novo;14555;nenhuma economia conhecida;desempregado;1;masculino solteiro;nenhum;2;seguro de vida;23;nenhum;própria;1;unemp/unespecializado non res;1;sim;ruim
+0<=X<200;21;existente e pago;negócios;2767;100<=X<500;>=7;4;masculino div/sep;nenhum;2;carro;61;banco;alugada;2;não especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;1291;<100;1<=X<4;4;fem div/cas;nenhum;2;seguro de vida;35;nenhum;própria;2;especializado;1;sim;bom
+<0;30;existente e pago;Computador/TV;2522;<100;>=7;1;masculino solteiro;fiador;3;seguro de vida;39;nenhum;própria;1;especializado;2;sim;bom
+<0;24;existente e pago;carro novo;915;nenhuma economia conhecida;>=7;4;fem div/cas;nenhum;2;carro;29;banco;própria;1;especializado;1;sim;ruim
+sem cheque;6;existente e pago;Computador/TV;1595;<100;4<=X<7;3;masculino solteiro;nenhum;2;seguro de vida;51;nenhum;própria;1;especializado;2;sim;bom
+<0;48;sem créditos/todos pagos;carro usado;4605;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;24;nenhum;gratuitamente;2;especializado;2;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;negócios;1185;<100;1<=X<4;3;fem div/cas;nenhum;2;bens imóveis;27;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;todos pagos;qualificação;3447;500<=X<1000;1<=X<4;4;fem div/cas;nenhum;3;bens imóveis;35;nenhum;própria;1;não especializado;2;sim;bom
+sem cheque;24;existente e pago;negócios;1258;<100;4<=X<7;4;masculino solteiro;nenhum;1;bens imóveis;25;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;717;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;52;nenhum;própria;3;especializado;1;sim;bom
+sem cheque;6;sem créditos/todos pagos;carro novo;1204;100<=X<500;1<=X<4;4;masculino solteiro;nenhum;1;nenhuma conhecida;35;banco;alugada;1;especializado;1;não;bom
+>=200;24;existente e pago;mobilia/equipamento;1925;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;Computador/TV;433;<100;desempregado;3;fem div/cas;co requerente;4;bens imóveis;22;nenhum;alugada;1;especializado;1;sim;ruim
+<0;6;crítica / outros de crédito existente;carro novo;666;>=1000;4<=X<7;3;fem div/cas;nenhum;4;bens imóveis;39;nenhum;própria;2;não especializado;1;sim;bom
+>=200;12;existente e pago;mobilia/equipamento;2251;<100;1<=X<4;1;fem div/cas;nenhum;2;carro;46;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;30;existente e pago;carro novo;2150;<100;1<=X<4;4;fem div/cas;fiador;2;nenhuma conhecida;24;banco;própria;1;especializado;1;sim;ruim
+sem cheque;24;atrasos anteriores;mobilia/equipamento;4151;100<=X<500;1<=X<4;2;masculino solteiro;nenhum;3;seguro de vida;35;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;9;existente e pago;mobilia/equipamento;2030;nenhuma economia conhecida;4<=X<7;2;masculino solteiro;nenhum;1;carro;24;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;60;atrasos anteriores;Computador/TV;7418;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;nenhum;1;bens imóveis;27;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2684;<100;1<=X<4;4;masculino solteiro;nenhum;2;bens imóveis;35;nenhum;própria;2;não especializado;1;sim;bom
+<0;12;todos pagos;Computador/TV;2149;<100;1<=X<4;4;masculino div/sep;nenhum;1;nenhuma conhecida;29;nenhum;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;15;existente e pago;carro usado;3812;100<=X<500;<1;1;fem div/cas;nenhum;4;carro;23;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;11;crítica / outros de crédito existente;Computador/TV;1154;100<=X<500;desempregado;4;fem div/cas;nenhum;4;bens imóveis;57;nenhum;própria;3;não especializado;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;1657;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;27;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;Computador/TV;1603;<100;>=7;4;fem div/cas;nenhum;4;carro;55;nenhum;própria;1;especializado;1;sim;bom
+<0;18;crítica / outros de crédito existente;carro novo;5302;<100;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;36;nenhum;gratuitamente;3;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;educação;2748;<100;>=7;2;fem div/cas;nenhum;4;nenhuma conhecida;57;banco;gratuitamente;3;não especializado;1;sim;bom
+sem cheque;10;crítica / outros de crédito existente;carro novo;1231;<100;>=7;3;masculino solteiro;nenhum;4;bens imóveis;32;nenhum;própria;2;não especializado;2;não;bom
+0<=X<200;15;existente e pago;Computador/TV;802;<100;>=7;4;masculino solteiro;nenhum;3;carro;37;nenhum;própria;1;especializado;2;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;negócios;6304;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;1533;<100;<1;4;fem div/cas;nenhum;3;carro;38;stores;própria;1;especializado;1;sim;bom
+<0;14;existente e pago;carro novo;8978;<100;>=7;1;masculino div/sep;nenhum;4;seguro de vida;45;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;não;ruim
+sem cheque;24;existente e pago;Computador/TV;999;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;2;carro;25;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;existente e pago;carro novo;2662;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;3;seguro de vida;32;nenhum;própria;1;especializado;1;não;bom
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;1402;500<=X<1000;4<=X<7;3;fem div/cas;nenhum;4;carro;37;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;48;todos pagos;carro novo;12169;nenhuma economia conhecida;desempregado;4;masculino solteiro;co requerente;4;nenhuma conhecida;36;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;48;existente e pago;Computador/TV;3060;<100;4<=X<7;4;masculino solteiro;nenhum;4;bens imóveis;28;nenhum;própria;2;especializado;1;sim;ruim
+<0;30;existente e pago;obras;11998;<100;<1;1;masculino div/sep;nenhum;1;nenhuma conhecida;34;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;9;existente e pago;Computador/TV;2697;<100;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;32;nenhum;própria;1;especializado;2;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;2404;<100;1<=X<4;2;fem div/cas;nenhum;2;carro;26;nenhum;própria;2;especializado;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;1262;nenhuma economia conhecida;>=7;2;masculino div/sep;nenhum;4;seguro de vida;49;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;6;existente e pago;mobilia/equipamento;4611;<100;<1;1;fem div/cas;nenhum;4;seguro de vida;32;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;existente e pago;Computador/TV;1901;100<=X<500;1<=X<4;4;masculino solteiro;nenhum;4;carro;29;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;carro usado;3368;>=1000;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;23;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;12;existente e pago;mobilia/equipamento;1574;<100;1<=X<4;4;masculino solteiro;nenhum;2;bens imóveis;50;nenhum;própria;1;especializado;1;sim;bom
+>=200;18;todos pagos;Computador/TV;1445;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;4;carro;49;banco;própria;1;não especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;mobilia/equipamento;1520;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;63;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;carro novo;3878;100<=X<500;<1;4;masculino div/sep;nenhum;2;carro;37;nenhum;própria;1;especializado;1;sim;bom
+<0;47;existente e pago;carro novo;10722;<100;<1;1;fem div/cas;nenhum;1;bens imóveis;35;nenhum;própria;1;não especializado;1;sim;bom
+<0;48;existente e pago;carro usado;4788;<100;4<=X<7;4;masculino solteiro;nenhum;3;seguro de vida;26;nenhum;própria;1;especializado;2;sim;bom
+0<=X<200;48;atrasos anteriores;outros;7582;100<=X<500;desempregado;2;masculino solteiro;nenhum;4;nenhuma conhecida;31;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1092;<100;1<=X<4;4;fem div/cas;fiador;4;bens imóveis;49;nenhum;própria;2;especializado;1;sim;bom
+<0;24;atrasos anteriores;Computador/TV;1024;<100;<1;4;masculino casado/viuvo;nenhum;4;bens imóveis;48;stores;própria;1;especializado;1;sim;ruim
+sem cheque;12;existente e pago;negócios;1076;<100;1<=X<4;2;masculino casado/viuvo;nenhum;2;bens imóveis;26;nenhum;própria;1;especializado;1;não;bom
+0<=X<200;36;existente e pago;carro usado;9398;<100;<1;1;masculino casado/viuvo;nenhum;4;carro;28;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;24;crítica / outros de crédito existente;carro usado;6419;<100;>=7;2;fem div/cas;nenhum;4;nenhuma conhecida;44;nenhum;gratuitamente;2;alta qualificação/autonomo/Gerente;2;sim;bom
+>=200;42;crítica / outros de crédito existente;carro usado;4796;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;56;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;48;crítica / outros de crédito existente;negócios;7629;nenhuma economia conhecida;>=7;4;masculino div/sep;nenhum;2;carro;46;banco;própria;2;alta qualificação/autonomo/Gerente;2;sim;bom
+0<=X<200;48;existente e pago;mobilia/equipamento;9960;<100;<1;1;fem div/cas;nenhum;2;carro;26;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;12;existente e pago;carro usado;4675;nenhuma economia conhecida;<1;1;fem div/cas;nenhum;4;carro;20;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;10;existente e pago;carro novo;1287;nenhuma economia conhecida;>=7;4;masculino solteiro;co requerente;2;seguro de vida;45;nenhum;própria;1;não especializado;1;não;bom
+sem cheque;18;existente e pago;mobilia/equipamento;2515;<100;1<=X<4;3;masculino solteiro;nenhum;4;bens imóveis;43;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;21;crítica / outros de crédito existente;mobilia/equipamento;2745;>=1000;4<=X<7;3;masculino solteiro;nenhum;2;carro;32;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;6;existente e pago;carro novo;672;<100;desempregado;1;fem div/cas;nenhum;4;bens imóveis;54;nenhum;própria;1;unemp/unespecializado non res;1;sim;bom
+0<=X<200;36;sem créditos/todos pagos;Computador/TV;3804;<100;1<=X<4;4;fem div/cas;nenhum;1;carro;42;nenhum;própria;1;especializado;1;sim;ruim
+>=200;24;crítica / outros de crédito existente;carro novo;1344;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;2;bens imóveis;37;banco;própria;2;não especializado;2;sim;ruim
+<0;10;crítica / outros de crédito existente;carro novo;1038;<100;4<=X<7;4;masculino solteiro;co requerente;3;seguro de vida;49;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;48;crítica / outros de crédito existente;carro novo;10127;500<=X<1000;1<=X<4;2;masculino solteiro;nenhum;2;nenhuma conhecida;44;banco;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;6;existente e pago;mobilia/equipamento;1543;>=1000;1<=X<4;4;masculino div/sep;nenhum;2;bens imóveis;33;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;30;existente e pago;carro usado;4811;nenhuma economia conhecida;4<=X<7;2;fem div/cas;nenhum;4;seguro de vida;24;stores;alugada;1;não especializado;1;sim;bom
+<0;12;existente e pago;Computador/TV;727;100<=X<500;<1;4;masculino casado/viuvo;nenhum;3;nenhuma conhecida;33;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;8;existente e pago;mobilia/equipamento;1237;<100;1<=X<4;3;fem div/cas;nenhum;4;bens imóveis;24;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;9;existente e pago;carro novo;276;<100;1<=X<4;4;masculino casado/viuvo;nenhum;4;bens imóveis;22;nenhum;alugada;1;não especializado;1;sim;bom
+0<=X<200;48;existente e pago;outros;5381;nenhuma economia conhecida;desempregado;3;masculino solteiro;nenhum;4;nenhuma conhecida;40;banco;gratuitamente;1;unemp/unespecializado non res;1;sim;bom
+sem cheque;24;existente e pago;mobilia/equipamento;5511;100<=X<500;1<=X<4;4;masculino solteiro;nenhum;1;carro;25;stores;própria;1;especializado;1;sim;bom
+>=200;24;existente e pago;mobilia/equipamento;3749;<100;<1;2;fem div/cas;nenhum;4;carro;26;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;685;<100;4<=X<7;2;masculino casado/viuvo;nenhum;3;carro;25;banco;própria;1;não especializado;1;sim;ruim
+>=200;4;existente e pago;carro novo;1494;nenhuma economia conhecida;<1;1;masculino solteiro;nenhum;2;bens imóveis;29;nenhum;própria;1;não especializado;2;não;bom
+<0;36;todos pagos;mobilia/equipamento;2746;<100;>=7;4;masculino solteiro;nenhum;4;carro;31;banco;própria;1;especializado;1;sim;ruim
+<0;12;existente e pago;mobilia/equipamento;708;<100;1<=X<4;2;masculino solteiro;fiador;3;seguro de vida;38;nenhum;própria;1;não especializado;2;sim;bom
+0<=X<200;24;existente e pago;mobilia/equipamento;4351;nenhuma economia conhecida;1<=X<4;1;fem div/cas;nenhum;4;seguro de vida;48;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;educação;701;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;32;nenhum;própria;2;especializado;1;sim;bom
+<0;15;atrasos anteriores;mobilia/equipamento;3643;<100;>=7;1;fem div/cas;nenhum;4;seguro de vida;27;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;30;crítica / outros de crédito existente;carro novo;4249;<100;desempregado;4;masculino casado/viuvo;nenhum;2;carro;28;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;24;existente e pago;Computador/TV;1938;<100;<1;4;masculino div/sep;nenhum;3;seguro de vida;32;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;carro usado;2910;<100;4<=X<7;2;masculino solteiro;nenhum;1;nenhuma conhecida;34;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;2659;>=1000;1<=X<4;4;masculino solteiro;nenhum;2;carro;28;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;carro novo;1028;<100;1<=X<4;4;fem div/cas;nenhum;3;bens imóveis;36;nenhum;própria;2;especializado;1;sim;bom
+<0;8;crítica / outros de crédito existente;carro novo;3398;<100;4<=X<7;1;masculino solteiro;nenhum;4;bens imóveis;39;nenhum;própria;2;não especializado;1;não;bom
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;5801;nenhuma economia conhecida;>=7;2;masculino solteiro;nenhum;4;seguro de vida;49;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro novo;1525;>=1000;4<=X<7;4;fem div/cas;nenhum;3;carro;34;nenhum;própria;1;especializado;2;sim;bom
+>=200;36;existente e pago;Computador/TV;4473;<100;>=7;4;masculino solteiro;nenhum;2;carro;31;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;6;existente e pago;Computador/TV;1068;<100;>=7;4;masculino solteiro;nenhum;4;carro;28;nenhum;própria;1;especializado;2;sim;bom
+<0;24;crítica / outros de crédito existente;carro usado;6615;<100;desempregado;2;masculino solteiro;nenhum;4;nenhuma conhecida;75;nenhum;gratuitamente;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;educação;1864;100<=X<500;1<=X<4;4;fem div/cas;nenhum;2;bens imóveis;30;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;60;existente e pago;carro novo;7408;100<=X<500;<1;4;fem div/cas;nenhum;2;seguro de vida;24;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;48;crítica / outros de crédito existente;carro usado;11590;100<=X<500;1<=X<4;2;fem div/cas;nenhum;4;carro;24;banco;alugada;2;não especializado;1;sim;ruim
+<0;24;sem créditos/todos pagos;mobilia/equipamento;4110;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;23;banco;alugada;2;especializado;2;sim;ruim
+<0;6;crítica / outros de crédito existente;mobilia/equipamento;3384;<100;1<=X<4;1;masculino div/sep;nenhum;4;bens imóveis;44;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;13;existente e pago;Computador/TV;2101;<100;<1;2;fem div/cas;fiador;4;seguro de vida;23;nenhum;própria;1;não especializado;1;sim;bom
+<0;15;existente e pago;Eletrodomésticos;1275;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;2;carro;24;nenhum;alugada;1;especializado;1;sim;ruim
+<0;24;existente e pago;mobilia/equipamento;4169;<100;1<=X<4;4;masculino solteiro;nenhum;4;seguro de vida;28;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;10;existente e pago;mobilia/equipamento;1521;<100;1<=X<4;4;masculino div/sep;nenhum;2;carro;31;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;educação;5743;<100;<1;2;fem div/cas;nenhum;4;nenhuma conhecida;24;nenhum;gratuitamente;2;especializado;1;sim;bom
+<0;21;existente e pago;mobilia/equipamento;3599;<100;4<=X<7;1;fem div/cas;nenhum;4;carro;26;nenhum;alugada;1;não especializado;1;sim;bom
+0<=X<200;18;existente e pago;Computador/TV;3213;500<=X<1000;<1;1;masculino casado/viuvo;nenhum;3;bens imóveis;25;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;negócios;4439;<100;>=7;1;masculino solteiro;co requerente;1;bens imóveis;33;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;10;existente e pago;carro novo;3949;<100;<1;1;masculino solteiro;fiador;1;seguro de vida;37;nenhum;própria;1;não especializado;2;sim;bom
+sem cheque;15;crítica / outros de crédito existente;Computador/TV;1459;<100;1<=X<4;4;fem div/cas;nenhum;2;carro;43;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;13;crítica / outros de crédito existente;Computador/TV;882;<100;<1;4;masculino solteiro;fiador;4;bens imóveis;23;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;24;existente e pago;Computador/TV;3758;500<=X<1000;desempregado;1;fem div/cas;nenhum;4;nenhuma conhecida;23;nenhum;alugada;1;unemp/unespecializado non res;1;sim;bom
+sem cheque;6;atrasos anteriores;negócios;1743;100<=X<500;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;34;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;9;crítica / outros de crédito existente;educação;1136;>=1000;>=7;4;masculino solteiro;nenhum;3;nenhuma conhecida;32;nenhum;gratuitamente;2;especializado;2;sim;ruim
+sem cheque;9;existente e pago;Eletrodomésticos;1236;<100;<1;1;fem div/cas;nenhum;4;bens imóveis;23;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;9;existente e pago;mobilia/equipamento;959;<100;1<=X<4;1;fem div/cas;nenhum;2;carro;29;nenhum;própria;1;especializado;1;não;ruim
+sem cheque;18;crítica / outros de crédito existente;carro usado;3229;nenhuma economia conhecida;desempregado;2;masculino solteiro;nenhum;4;nenhuma conhecida;38;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;sem créditos/todos pagos;Computador/TV;6199;<100;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;28;nenhum;alugada;2;especializado;1;sim;ruim
+sem cheque;10;existente e pago;educação;727;500<=X<1000;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;46;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;24;existente e pago;carro novo;1246;<100;<1;4;masculino solteiro;nenhum;2;bens imóveis;23;stores;própria;1;não especializado;1;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;2331;nenhuma economia conhecida;>=7;1;masculino solteiro;co requerente;4;bens imóveis;49;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;36;atrasos anteriores;Computador/TV;4463;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;26;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;12;existente e pago;Computador/TV;776;<100;1<=X<4;4;masculino casado/viuvo;nenhum;2;bens imóveis;28;nenhum;própria;1;especializado;1;sim;bom
+<0;30;existente e pago;mobilia/equipamento;2406;<100;4<=X<7;4;fem div/cas;nenhum;4;bens imóveis;23;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;18;existente e pago;educação;1239;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;61;nenhum;gratuitamente;1;especializado;1;sim;bom
+>=200;12;existente e pago;Computador/TV;3399;nenhuma economia conhecida;>=7;2;masculino solteiro;nenhum;3;carro;37;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;12;atrasos anteriores;carro novo;2247;<100;1<=X<4;2;fem div/cas;nenhum;2;carro;36;stores;própria;2;especializado;1;sim;bom
+sem cheque;6;existente e pago;mobilia/equipamento;1766;<100;1<=X<4;1;masculino casado/viuvo;nenhum;2;seguro de vida;21;nenhum;alugada;1;especializado;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;2473;<100;desempregado;4;masculino solteiro;nenhum;1;carro;25;nenhum;própria;1;unemp/unespecializado non res;1;sim;ruim
+sem cheque;12;existente e pago;negócios;1542;<100;4<=X<7;2;masculino solteiro;nenhum;4;carro;36;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;carro usado;3850;<100;4<=X<7;3;masculino solteiro;nenhum;1;carro;27;nenhum;própria;2;especializado;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;3650;<100;<1;1;fem div/cas;nenhum;4;carro;22;nenhum;alugada;1;especializado;1;sim;bom
+<0;36;existente e pago;mobilia/equipamento;3446;<100;>=7;4;masculino solteiro;nenhum;2;carro;42;nenhum;própria;1;especializado;2;sim;ruim
+0<=X<200;18;existente e pago;mobilia/equipamento;3001;<100;4<=X<7;2;fem div/cas;nenhum;4;bens imóveis;40;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;36;existente e pago;carro novo;3079;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;6070;<100;>=7;3;masculino solteiro;nenhum;4;carro;33;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;10;crítica / outros de crédito existente;mobilia/equipamento;2146;<100;<1;1;fem div/cas;nenhum;3;bens imóveis;23;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;60;crítica / outros de crédito existente;carro novo;13756;nenhuma economia conhecida;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;63;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;60;todos pagos;outros;14782;100<=X<500;>=7;3;fem div/cas;nenhum;4;nenhuma conhecida;60;banco;gratuitamente;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;48;todos pagos;negócios;7685;<100;4<=X<7;2;fem div/cas;fiador;4;carro;37;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;18;atrasos anteriores;Computador/TV;2320;<100;desempregado;2;masculino casado/viuvo;nenhum;3;bens imóveis;34;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;7;atrasos anteriores;Computador/TV;846;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;36;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;36;existente e pago;carro novo;14318;<100;>=7;4;masculino solteiro;nenhum;2;nenhuma conhecida;57;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;6;crítica / outros de crédito existente;carro novo;362;100<=X<500;1<=X<4;4;fem div/cas;nenhum;4;carro;52;nenhum;própria;2;não especializado;1;sim;bom
+<0;20;existente e pago;mobilia/equipamento;2212;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;4;carro;39;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;carro usado;12976;<100;desempregado;3;fem div/cas;nenhum;4;nenhuma conhecida;38;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;22;existente e pago;carro novo;1283;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;4;seguro de vida;25;nenhum;alugada;1;especializado;1;sim;bom
+>=200;12;existente e pago;carro novo;1330;<100;<1;4;masculino solteiro;nenhum;1;bens imóveis;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;30;atrasos anteriores;negócios;4272;100<=X<500;1<=X<4;2;masculino solteiro;nenhum;2;seguro de vida;26;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;2238;<100;1<=X<4;2;fem div/cas;nenhum;1;carro;25;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;existente e pago;Computador/TV;1126;nenhuma economia conhecida;<1;4;fem div/cas;nenhum;2;bens imóveis;21;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;mobilia/equipamento;7374;<100;desempregado;4;masculino solteiro;nenhum;4;seguro de vida;40;stores;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;15;crítica / outros de crédito existente;negócios;2326;500<=X<1000;1<=X<4;2;masculino solteiro;nenhum;4;carro;27;banco;própria;1;especializado;1;sim;bom
+sem cheque;9;existente e pago;negócios;1449;<100;4<=X<7;3;fem div/cas;nenhum;2;carro;27;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;existente e pago;carro novo;1820;<100;1<=X<4;2;masculino casado/viuvo;nenhum;2;seguro de vida;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;mobilia/equipamento;983;>=1000;<1;1;fem div/cas;nenhum;4;bens imóveis;19;nenhum;alugada;1;não especializado;1;sim;bom
+<0;36;existente e pago;carro novo;3249;<100;4<=X<7;2;masculino solteiro;nenhum;4;nenhuma conhecida;39;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;2;sim;bom
+<0;6;crítica / outros de crédito existente;Computador/TV;1957;<100;4<=X<7;1;fem div/cas;nenhum;4;carro;31;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;9;crítica / outros de crédito existente;mobilia/equipamento;2406;<100;desempregado;2;masculino solteiro;nenhum;3;carro;31;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;39;atrasos anteriores;educação;11760;100<=X<500;4<=X<7;2;masculino solteiro;nenhum;3;nenhuma conhecida;32;nenhum;alugada;1;especializado;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;2578;<100;desempregado;3;fem div/cas;nenhum;4;nenhuma conhecida;55;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;36;crítica / outros de crédito existente;mobilia/equipamento;2348;<100;1<=X<4;3;masculino casado/viuvo;nenhum;2;seguro de vida;46;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;1223;<100;>=7;1;masculino div/sep;nenhum;1;bens imóveis;46;nenhum;alugada;2;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;1516;>=1000;1<=X<4;4;fem div/cas;nenhum;1;bens imóveis;43;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;18;existente e pago;Computador/TV;1473;<100;<1;3;masculino casado/viuvo;nenhum;4;bens imóveis;39;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;negócios;1887;nenhuma economia conhecida;1<=X<4;4;masculino casado/viuvo;nenhum;4;bens imóveis;28;banco;própria;2;especializado;1;sim;bom
+sem cheque;24;atrasos anteriores;negócios;8648;<100;<1;2;masculino solteiro;nenhum;2;carro;27;banco;própria;2;especializado;1;sim;ruim
+sem cheque;14;atrasos anteriores;carro novo;802;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;27;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;18;atrasos anteriores;carro novo;2899;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;carro;43;nenhum;própria;1;especializado;2;sim;bom
+0<=X<200;24;existente e pago;Computador/TV;2039;<100;<1;1;masculino casado/viuvo;nenhum;1;seguro de vida;22;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro usado;2197;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;4;carro;43;nenhum;própria;2;especializado;2;sim;bom
+<0;15;existente e pago;Computador/TV;1053;<100;<1;4;masculino casado/viuvo;nenhum;2;bens imóveis;27;nenhum;própria;1;especializado;1;não;bom
+sem cheque;24;existente e pago;Computador/TV;3235;500<=X<1000;>=7;3;masculino div/sep;nenhum;2;carro;26;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;12;crítica / outros de crédito existente;carro novo;939;500<=X<1000;4<=X<7;4;masculino casado/viuvo;nenhum;2;bens imóveis;28;nenhum;própria;3;especializado;1;sim;ruim
+0<=X<200;24;existente e pago;Computador/TV;1967;<100;>=7;4;fem div/cas;nenhum;4;carro;20;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;33;crítica / outros de crédito existente;carro usado;7253;<100;4<=X<7;3;masculino solteiro;nenhum;2;carro;35;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;negócios;2292;<100;desempregado;4;masculino solteiro;nenhum;2;carro;42;stores;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;10;existente e pago;carro novo;1597;500<=X<1000;1<=X<4;3;masculino solteiro;nenhum;2;nenhuma conhecida;40;nenhum;alugada;1;não especializado;2;não;bom
+<0;24;existente e pago;carro novo;1381;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;2;seguro de vida;35;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;carro usado;5842;<100;>=7;2;masculino solteiro;nenhum;2;seguro de vida;35;nenhum;própria;2;especializado;2;sim;bom
+<0;12;existente e pago;carro novo;2579;<100;<1;4;masculino solteiro;nenhum;1;bens imóveis;33;nenhum;própria;1;não especializado;2;sim;ruim
+<0;18;atrasos anteriores;educação;8471;nenhuma economia conhecida;1<=X<4;1;fem div/cas;nenhum;2;carro;23;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;21;existente e pago;carro novo;2782;500<=X<1000;4<=X<7;1;fem div/cas;nenhum;2;carro;31;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;18;existente e pago;carro novo;1042;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;2;seguro de vida;33;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;15;existente e pago;carro novo;3186;>=1000;4<=X<7;2;fem div/cas;nenhum;3;carro;20;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro usado;2028;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;2;carro;30;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;crítica / outros de crédito existente;carro novo;958;<100;4<=X<7;2;masculino solteiro;nenhum;3;bens imóveis;47;nenhum;própria;2;não especializado;2;sim;bom
+sem cheque;21;atrasos anteriores;mobilia/equipamento;1591;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;3;bens imóveis;34;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;mobilia/equipamento;2762;nenhuma economia conhecida;>=7;1;fem div/cas;nenhum;2;seguro de vida;25;banco;própria;1;especializado;1;sim;ruim
+0<=X<200;18;existente e pago;carro usado;2779;<100;1<=X<4;1;masculino casado/viuvo;nenhum;3;carro;21;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;28;crítica / outros de crédito existente;Computador/TV;2743;<100;>=7;4;masculino solteiro;nenhum;2;carro;29;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;1149;>=1000;1<=X<4;4;masculino solteiro;nenhum;3;bens imóveis;46;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;9;existente e pago;mobilia/equipamento;1313;<100;>=7;1;masculino solteiro;nenhum;4;carro;20;nenhum;própria;1;especializado;1;sim;bom
+<0;18;crítica / outros de crédito existente;obras;1190;<100;desempregado;2;fem div/cas;nenhum;4;nenhuma conhecida;55;nenhum;gratuitamente;3;unemp/unespecializado non res;2;sim;ruim
+sem cheque;5;existente e pago;negócios;3448;<100;4<=X<7;1;masculino solteiro;nenhum;4;bens imóveis;74;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;outros;11328;<100;1<=X<4;2;masculino solteiro;co requerente;3;carro;29;banco;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;6;crítica / outros de crédito existente;mobilia/equipamento;1872;<100;desempregado;4;masculino solteiro;nenhum;4;nenhuma conhecida;36;nenhum;gratuitamente;3;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;obras;2058;<100;1<=X<4;4;masculino div/sep;nenhum;2;bens imóveis;33;nenhum;própria;2;especializado;1;sim;bom
+<0;9;existente e pago;mobilia/equipamento;2136;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;25;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1484;nenhuma economia conhecida;1<=X<4;2;masculino casado/viuvo;nenhum;1;bens imóveis;25;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;6;existente e pago;obras;660;500<=X<1000;4<=X<7;2;masculino casado/viuvo;nenhum;4;bens imóveis;23;nenhum;alugada;1;não especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;carro novo;1287;>=1000;>=7;4;fem div/cas;nenhum;4;bens imóveis;37;nenhum;própria;2;especializado;1;sim;bom
+<0;42;crítica / outros de crédito existente;obras;3394;<100;desempregado;4;masculino solteiro;co requerente;4;carro;65;nenhum;própria;2;unemp/unespecializado non res;1;sim;bom
+>=200;12;todos pagos;negócios;609;<100;<1;4;fem div/cas;nenhum;1;bens imóveis;26;nenhum;própria;1;unemp/unespecializado non res;1;sim;ruim
+sem cheque;12;existente e pago;carro novo;1884;<100;>=7;4;masculino solteiro;nenhum;4;carro;39;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;1620;<100;1<=X<4;2;fem div/cas;co requerente;3;seguro de vida;30;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;20;atrasos anteriores;outros;2629;<100;1<=X<4;2;masculino solteiro;nenhum;3;carro;29;banco;própria;2;especializado;1;sim;bom
+sem cheque;12;existente e pago;educação;719;<100;>=7;4;masculino solteiro;nenhum;4;carro;41;banco;própria;1;não especializado;2;sim;ruim
+0<=X<200;48;crítica / outros de crédito existente;mobilia/equipamento;5096;<100;1<=X<4;2;fem div/cas;nenhum;3;carro;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;9;crítica / outros de crédito existente;educação;1244;nenhuma economia conhecida;>=7;4;fem div/cas;nenhum;4;seguro de vida;41;nenhum;alugada;2;não especializado;1;sim;bom
+<0;36;existente e pago;carro novo;1842;<100;<1;4;fem div/cas;nenhum;4;carro;34;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;7;existente e pago;Computador/TV;2576;<100;1<=X<4;2;masculino solteiro;fiador;2;bens imóveis;35;nenhum;própria;1;especializado;1;sim;bom
+>=200;12;existente e pago;mobilia/equipamento;1424;nenhuma economia conhecida;>=7;3;fem div/cas;nenhum;4;bens imóveis;55;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;15;atrasos anteriores;obras;1512;>=1000;1<=X<4;3;masculino casado/viuvo;nenhum;3;seguro de vida;61;stores;própria;2;especializado;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;carro usado;11054;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;2;carro;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;6;existente e pago;Computador/TV;518;<100;1<=X<4;3;fem div/cas;nenhum;1;bens imóveis;29;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;sem créditos/todos pagos;mobilia/equipamento;2759;<100;>=7;2;masculino solteiro;nenhum;4;seguro de vida;34;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro usado;2670;<100;>=7;4;masculino solteiro;nenhum;4;carro;35;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;24;existente e pago;carro novo;4817;<100;4<=X<7;2;masculino solteiro;co requerente;3;seguro de vida;31;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;existente e pago;carro usado;2679;<100;<1;4;fem div/cas;nenhum;1;nenhuma conhecida;29;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;11;crítica / outros de crédito existente;carro novo;3905;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;36;nenhum;alugada;2;especializado;2;sim;bom
+<0;12;existente e pago;carro usado;3386;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;35;nenhum;gratuitamente;1;especializado;1;sim;ruim
+<0;6;existente e pago;Eletrodomésticos;343;<100;<1;4;fem div/cas;nenhum;1;bens imóveis;27;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;Computador/TV;4594;<100;<1;3;masculino solteiro;nenhum;2;carro;32;nenhum;própria;1;especializado;1;sim;bom
+<0;36;existente e pago;mobilia/equipamento;3620;<100;1<=X<4;1;masculino solteiro;fiador;2;seguro de vida;37;nenhum;própria;1;especializado;2;sim;bom
+<0;15;existente e pago;carro novo;1721;<100;<1;2;masculino solteiro;nenhum;3;bens imóveis;36;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;mobilia/equipamento;3017;<100;<1;3;fem div/cas;nenhum;1;bens imóveis;34;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;qualificação;754;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;38;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;existente e pago;negócios;1950;<100;4<=X<7;4;masculino solteiro;nenhum;1;carro;34;stores;própria;2;especializado;1;sim;bom
+<0;24;existente e pago;carro usado;2924;<100;1<=X<4;3;masculino solteiro;fiador;4;nenhuma conhecida;63;banco;própria;1;especializado;2;sim;bom
+<0;24;atrasos anteriores;Computador/TV;1659;<100;<1;4;fem div/cas;nenhum;2;carro;29;nenhum;alugada;1;não especializado;1;sim;ruim
+sem cheque;48;atrasos anteriores;Computador/TV;7238;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;3;carro;32;banco;própria;2;especializado;2;sim;bom
+sem cheque;33;atrasos anteriores;negócios;2764;<100;1<=X<4;2;fem div/cas;nenhum;2;carro;26;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;atrasos anteriores;carro usado;4679;<100;4<=X<7;3;masculino solteiro;nenhum;3;carro;35;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;Computador/TV;3092;100<=X<500;<1;3;masculino casado/viuvo;nenhum;2;carro;22;nenhum;alugada;1;especializado;1;sim;ruim
+<0;6;existente e pago;educação;448;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;23;nenhum;própria;1;especializado;1;sim;ruim
+<0;9;existente e pago;carro novo;654;<100;1<=X<4;4;masculino solteiro;nenhum;3;carro;28;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;6;existente e pago;qualificação;1238;nenhuma economia conhecida;desempregado;4;masculino solteiro;nenhum;4;seguro de vida;36;nenhum;própria;1;alta qualificação/autonomo/Gerente;2;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;Computador/TV;1245;<100;1<=X<4;4;masculino casado/viuvo;nenhum;2;carro;33;nenhum;própria;1;especializado;1;sim;ruim
+<0;18;sem créditos/todos pagos;mobilia/equipamento;3114;<100;<1;1;fem div/cas;nenhum;4;seguro de vida;26;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;39;existente e pago;carro usado;2569;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;4;carro;24;nenhum;própria;1;especializado;1;sim;bom
+>=200;24;existente e pago;Computador/TV;5152;<100;4<=X<7;4;masculino solteiro;nenhum;2;carro;25;banco;própria;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;negócios;1037;100<=X<500;4<=X<7;3;masculino solteiro;nenhum;4;bens imóveis;39;nenhum;própria;1;não especializado;1;sim;bom
+<0;15;crítica / outros de crédito existente;mobilia/equipamento;1478;<100;>=7;4;masculino solteiro;nenhum;4;carro;44;nenhum;própria;2;especializado;2;sim;bom
+0<=X<200;12;crítica / outros de crédito existente;Computador/TV;3573;<100;1<=X<4;1;fem div/cas;nenhum;1;bens imóveis;23;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;carro novo;1201;<100;<1;4;masculino solteiro;nenhum;1;seguro de vida;26;nenhum;própria;1;especializado;1;sim;bom
+<0;30;existente e pago;mobilia/equipamento;3622;>=1000;>=7;4;fem div/cas;nenhum;4;seguro de vida;57;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;15;atrasos anteriores;mobilia/equipamento;960;>=1000;4<=X<7;3;fem div/cas;nenhum;2;seguro de vida;30;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;carro novo;1163;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;44;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;6;atrasos anteriores;carro novo;1209;<100;desempregado;4;masculino solteiro;nenhum;4;seguro de vida;47;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;12;existente e pago;Computador/TV;3077;<100;1<=X<4;2;masculino solteiro;nenhum;4;carro;52;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro novo;3757;<100;>=7;4;fem div/cas;co requerente;4;nenhuma conhecida;62;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;10;existente e pago;carro novo;1418;100<=X<500;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;35;nenhum;alugada;1;não especializado;1;não;bom
+sem cheque;6;existente e pago;carro novo;3518;<100;1<=X<4;2;masculino solteiro;fiador;3;seguro de vida;26;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;1934;<100;>=7;2;masculino solteiro;nenhum;2;nenhuma conhecida;26;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;27;sem créditos/todos pagos;negócios;8318;<100;>=7;2;fem div/cas;nenhum;4;nenhuma conhecida;42;nenhum;gratuitamente;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;1237;100<=X<500;1<=X<4;1;fem div/cas;nenhum;1;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;6;existente e pago;Computador/TV;368;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;38;nenhum;própria;1;especializado;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro novo;2122;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;39;nenhum;alugada;2;não especializado;2;não;bom
+<0;24;existente e pago;mobilia/equipamento;2996;nenhuma economia conhecida;1<=X<4;2;masculino casado/viuvo;nenhum;4;carro;20;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;36;existente e pago;mobilia/equipamento;9034;100<=X<500;<1;4;masculino solteiro;co requerente;1;nenhuma conhecida;29;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;mobilia/equipamento;1585;<100;4<=X<7;4;masculino solteiro;nenhum;3;seguro de vida;40;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;18;existente e pago;Computador/TV;1301;<100;>=7;4;masculino casado/viuvo;fiador;2;bens imóveis;32;nenhum;própria;1;não especializado;1;sim;bom
+>=200;6;crítica / outros de crédito existente;carro novo;1323;100<=X<500;>=7;2;masculino div/sep;nenhum;4;carro;28;nenhum;própria;2;especializado;2;sim;bom
+<0;24;existente e pago;carro novo;3123;<100;<1;4;fem div/cas;nenhum;1;seguro de vida;27;nenhum;própria;1;especializado;1;sim;ruim
+<0;36;existente e pago;carro usado;5493;<100;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;42;nenhum;gratuitamente;1;especializado;2;sim;bom
+>=200;9;existente e pago;Computador/TV;1126;100<=X<500;>=7;2;masculino div/sep;nenhum;4;bens imóveis;49;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;Computador/TV;1216;100<=X<500;<1;4;masculino solteiro;nenhum;4;nenhuma conhecida;38;banco;própria;2;especializado;2;sim;ruim
+<0;24;existente e pago;carro novo;1207;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;24;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;10;existente e pago;carro novo;1309;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;fiador;4;seguro de vida;27;nenhum;própria;1;não especializado;1;sim;ruim
+>=200;15;crítica / outros de crédito existente;carro usado;2360;500<=X<1000;1<=X<4;2;masculino solteiro;nenhum;2;carro;36;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;15;todos pagos;carro novo;6850;100<=X<500;desempregado;1;masculino solteiro;nenhum;2;seguro de vida;34;nenhum;própria;1;alta qualificação/autonomo/Gerente;2;sim;ruim
+sem cheque;24;existente e pago;Computador/TV;1413;<100;1<=X<4;4;masculino casado/viuvo;nenhum;2;seguro de vida;28;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;39;existente e pago;carro usado;8588;100<=X<500;>=7;4;masculino solteiro;nenhum;2;carro;45;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;existente e pago;carro novo;759;<100;4<=X<7;4;masculino solteiro;nenhum;2;bens imóveis;26;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;36;existente e pago;carro usado;4686;<100;1<=X<4;2;masculino solteiro;nenhum;2;nenhuma conhecida;32;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;15;existente e pago;negócios;2687;<100;4<=X<7;2;masculino solteiro;nenhum;4;seguro de vida;26;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;12;atrasos anteriores;Computador/TV;585;<100;1<=X<4;4;masculino casado/viuvo;co requerente;4;bens imóveis;20;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro novo;2255;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;1;seguro de vida;54;nenhum;própria;1;especializado;1;sim;bom
+<0;6;crítica / outros de crédito existente;carro novo;609;<100;4<=X<7;4;fem div/cas;nenhum;3;seguro de vida;37;nenhum;própria;2;especializado;1;não;bom
+<0;6;crítica / outros de crédito existente;carro novo;1361;<100;<1;2;masculino solteiro;nenhum;4;bens imóveis;40;nenhum;própria;1;não especializado;2;não;bom
+sem cheque;36;crítica / outros de crédito existente;mobilia/equipamento;7127;<100;<1;2;fem div/cas;nenhum;4;seguro de vida;23;nenhum;alugada;2;especializado;1;sim;ruim
+<0;6;existente e pago;carro novo;1203;100<=X<500;>=7;3;masculino solteiro;nenhum;2;seguro de vida;43;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;700;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;36;nenhum;gratuitamente;2;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;obras;5507;<100;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;44;nenhum;gratuitamente;2;especializado;1;sim;bom
+<0;18;existente e pago;Computador/TV;3190;<100;1<=X<4;2;fem div/cas;nenhum;2;bens imóveis;24;nenhum;própria;1;especializado;1;sim;ruim
+<0;48;sem créditos/todos pagos;mobilia/equipamento;7119;<100;1<=X<4;3;masculino solteiro;nenhum;4;nenhuma conhecida;53;nenhum;gratuitamente;2;especializado;2;sim;ruim
+sem cheque;24;existente e pago;carro usado;3488;100<=X<500;4<=X<7;3;fem div/cas;nenhum;4;carro;23;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;existente e pago;Computador/TV;1113;<100;1<=X<4;4;fem div/cas;fiador;4;bens imóveis;26;nenhum;própria;1;não especializado;2;sim;bom
+0<=X<200;26;existente e pago;carro usado;7966;<100;<1;2;masculino solteiro;nenhum;3;carro;30;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;educação;1532;100<=X<500;1<=X<4;4;fem div/cas;nenhum;3;carro;31;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;4;crítica / outros de crédito existente;Computador/TV;1503;<100;4<=X<7;2;masculino solteiro;nenhum;1;bens imóveis;42;nenhum;própria;2;não especializado;2;sim;bom
+<0;36;existente e pago;Computador/TV;2302;<100;1<=X<4;4;masculino div/sep;nenhum;4;carro;31;nenhum;alugada;1;especializado;1;sim;ruim
+<0;6;existente e pago;carro novo;662;<100;<1;3;masculino solteiro;nenhum;4;bens imóveis;41;nenhum;própria;1;não especializado;2;sim;bom
+0<=X<200;36;existente e pago;educação;2273;<100;4<=X<7;3;masculino solteiro;nenhum;1;carro;32;nenhum;própria;2;especializado;2;sim;bom
+0<=X<200;15;existente e pago;carro novo;2631;100<=X<500;1<=X<4;2;fem div/cas;nenhum;4;carro;28;nenhum;alugada;2;especializado;1;sim;ruim
+sem cheque;12;atrasos anteriores;carro usado;1503;<100;1<=X<4;4;masculino casado/viuvo;nenhum;4;bens imóveis;41;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;1311;100<=X<500;4<=X<7;4;masculino casado/viuvo;nenhum;3;seguro de vida;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;3105;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;2;carro;25;nenhum;própria;2;especializado;1;sim;bom
+>=200;21;crítica / outros de crédito existente;educação;2319;<100;<1;2;masculino div/sep;nenhum;1;carro;33;nenhum;alugada;1;especializado;1;sim;ruim
+<0;6;existente e pago;carro novo;1374;nenhuma economia conhecida;desempregado;4;fem div/cas;nenhum;3;seguro de vida;75;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;mobilia/equipamento;3612;<100;>=7;3;fem div/cas;nenhum;4;seguro de vida;37;nenhum;própria;1;especializado;1;sim;bom
+<0;48;existente e pago;carro novo;7763;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;42;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+>=200;18;existente e pago;mobilia/equipamento;3049;<100;<1;1;fem div/cas;nenhum;1;seguro de vida;45;stores;própria;1;não especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1534;<100;<1;1;masculino casado/viuvo;nenhum;1;bens imóveis;23;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;24;atrasos anteriores;carro novo;2032;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;60;nenhum;gratuitamente;2;especializado;1;sim;bom
+<0;30;existente e pago;mobilia/equipamento;6350;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;31;nenhum;própria;1;especializado;1;sim;ruim
+>=200;18;existente e pago;mobilia/equipamento;2864;<100;1<=X<4;2;masculino solteiro;nenhum;1;bens imóveis;34;nenhum;própria;1;não especializado;2;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;carro novo;1255;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;61;nenhum;própria;2;não especializado;1;sim;bom
+<0;24;atrasos anteriores;carro novo;1333;<100;desempregado;4;masculino solteiro;nenhum;2;bens imóveis;43;nenhum;gratuitamente;2;especializado;2;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro novo;2022;<100;1<=X<4;4;fem div/cas;nenhum;4;carro;37;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;1552;<100;4<=X<7;3;masculino solteiro;nenhum;1;carro;32;banco;própria;1;especializado;2;sim;bom
+<0;12;todos pagos;Computador/TV;626;<100;1<=X<4;4;fem div/cas;nenhum;4;bens imóveis;24;banco;própria;1;não especializado;1;sim;ruim
+sem cheque;48;crítica / outros de crédito existente;carro usado;8858;nenhuma economia conhecida;4<=X<7;2;masculino solteiro;nenhum;1;nenhuma conhecida;35;nenhum;gratuitamente;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;obras;996;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;4;bens imóveis;23;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;6;todos pagos;Computador/TV;1750;500<=X<1000;>=7;2;masculino solteiro;nenhum;4;seguro de vida;45;banco;própria;1;não especializado;2;sim;bom
+<0;48;existente e pago;Computador/TV;6999;<100;4<=X<7;1;masculino casado/viuvo;fiador;1;bens imóveis;34;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;12;crítica / outros de crédito existente;carro novo;1995;100<=X<500;<1;4;masculino solteiro;nenhum;1;carro;27;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;existente e pago;educação;1199;<100;4<=X<7;4;fem div/cas;nenhum;4;seguro de vida;67;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1331;<100;<1;2;masculino solteiro;nenhum;1;carro;22;stores;própria;1;especializado;1;sim;ruim
+0<=X<200;18;sem créditos/todos pagos;carro novo;2278;100<=X<500;<1;3;fem div/cas;nenhum;3;carro;28;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;21;sem créditos/todos pagos;carro novo;5003;nenhuma economia conhecida;1<=X<4;1;fem div/cas;nenhum;4;seguro de vida;29;banco;própria;2;especializado;1;sim;ruim
+<0;24;todos pagos;mobilia/equipamento;3552;<100;4<=X<7;3;masculino solteiro;nenhum;4;carro;27;banco;própria;1;especializado;1;sim;ruim
+0<=X<200;18;crítica / outros de crédito existente;mobilia/equipamento;1928;<100;<1;2;masculino solteiro;nenhum;2;bens imóveis;31;nenhum;própria;2;não especializado;1;sim;ruim
+<0;24;existente e pago;carro usado;2964;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;49;banco;gratuitamente;1;especializado;2;sim;bom
+<0;24;todos pagos;Computador/TV;1546;<100;4<=X<7;4;masculino solteiro;fiador;4;carro;24;banco;alugada;1;não especializado;1;sim;ruim
+>=200;6;atrasos anteriores;Computador/TV;683;<100;<1;2;fem div/cas;nenhum;1;seguro de vida;29;banco;própria;1;especializado;1;sim;bom
+0<=X<200;36;existente e pago;carro novo;12389;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;nenhum;4;nenhuma conhecida;37;nenhum;gratuitamente;1;especializado;1;sim;ruim
+0<=X<200;24;atrasos anteriores;negócios;4712;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;37;banco;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;24;atrasos anteriores;Computador/TV;1553;100<=X<500;4<=X<7;3;fem div/cas;nenhum;2;seguro de vida;23;nenhum;alugada;2;especializado;1;sim;bom
+<0;12;existente e pago;carro novo;1372;<100;4<=X<7;2;masculino div/sep;nenhum;3;carro;36;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2578;>=1000;>=7;2;masculino solteiro;nenhum;2;carro;34;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;48;existente e pago;Computador/TV;3979;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;1;carro;41;nenhum;própria;2;especializado;2;sim;bom
+<0;48;existente e pago;Computador/TV;6758;<100;1<=X<4;3;fem div/cas;nenhum;2;carro;31;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;mobilia/equipamento;3234;<100;<1;4;fem div/cas;nenhum;4;bens imóveis;23;nenhum;alugada;1;não especializado;1;sim;ruim
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;5954;<100;4<=X<7;3;masculino solteiro;co requerente;2;carro;38;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro usado;5433;nenhuma economia conhecida;desempregado;2;fem div/cas;nenhum;4;seguro de vida;26;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;15;existente e pago;negócios;806;<100;1<=X<4;4;fem div/cas;nenhum;4;seguro de vida;22;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;9;existente e pago;Computador/TV;1082;<100;>=7;4;masculino solteiro;nenhum;4;carro;27;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;mobilia/equipamento;2788;<100;4<=X<7;2;fem div/cas;co requerente;3;carro;24;banco;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;2930;<100;4<=X<7;2;fem div/cas;nenhum;1;bens imóveis;27;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;educação;1927;nenhuma economia conhecida;1<=X<4;3;fem div/cas;nenhum;2;carro;33;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;36;crítica / outros de crédito existente;carro novo;2820;<100;<1;4;masculino div/sep;nenhum;4;carro;27;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;24;existente e pago;qualificação;937;<100;<1;4;masculino casado/viuvo;nenhum;3;carro;27;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;carro novo;1056;<100;>=7;3;masculino solteiro;fiador;3;bens imóveis;30;banco;própria;2;especializado;1;sim;ruim
+0<=X<200;12;crítica / outros de crédito existente;carro novo;3124;<100;<1;1;masculino solteiro;nenhum;3;bens imóveis;49;banco;própria;2;não especializado;2;sim;bom
+sem cheque;9;existente e pago;mobilia/equipamento;1388;<100;1<=X<4;4;fem div/cas;nenhum;2;bens imóveis;26;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;36;existente e pago;obras;2384;<100;<1;4;masculino solteiro;nenhum;1;nenhuma conhecida;33;nenhum;alugada;1;não especializado;1;sim;ruim
+sem cheque;12;existente e pago;carro novo;2133;nenhuma economia conhecida;>=7;4;fem div/cas;nenhum;4;nenhuma conhecida;52;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;2039;<100;1<=X<4;1;fem div/cas;nenhum;4;bens imóveis;20;banco;alugada;1;especializado;1;sim;ruim
+<0;9;crítica / outros de crédito existente;carro novo;2799;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;36;nenhum;alugada;2;especializado;2;sim;bom
+<0;12;existente e pago;mobilia/equipamento;1289;<100;1<=X<4;4;masculino solteiro;fiador;1;seguro de vida;21;nenhum;própria;1;não especializado;1;sim;bom
+<0;18;existente e pago;Eletrodomésticos;1217;<100;1<=X<4;4;masculino casado/viuvo;nenhum;3;bens imóveis;47;nenhum;própria;1;não especializado;1;sim;ruim
+<0;12;crítica / outros de crédito existente;mobilia/equipamento;2246;<100;>=7;3;masculino solteiro;nenhum;3;seguro de vida;60;nenhum;própria;2;especializado;1;sim;ruim
+<0;12;crítica / outros de crédito existente;Computador/TV;385;<100;4<=X<7;4;fem div/cas;nenhum;3;bens imóveis;58;nenhum;própria;4;não especializado;1;sim;bom
+0<=X<200;24;atrasos anteriores;carro novo;1965;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;4;carro;42;nenhum;alugada;2;especializado;1;sim;bom
+sem cheque;21;existente e pago;negócios;1572;>=1000;>=7;4;fem div/cas;nenhum;4;bens imóveis;36;banco;própria;1;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;carro novo;2718;<100;1<=X<4;3;fem div/cas;nenhum;4;seguro de vida;20;nenhum;alugada;1;não especializado;1;sim;ruim
+<0;24;todos pagos;outros;1358;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;3;carro;40;stores;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;6;todos pagos;carro novo;931;100<=X<500;<1;1;fem div/cas;nenhum;1;seguro de vida;32;stores;própria;1;não especializado;1;sim;ruim
+<0;24;existente e pago;carro novo;1442;<100;4<=X<7;4;fem div/cas;nenhum;4;carro;23;nenhum;alugada;2;especializado;1;sim;ruim
+0<=X<200;24;sem créditos/todos pagos;negócios;4241;<100;1<=X<4;1;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;3;não especializado;1;sim;ruim
+sem cheque;18;crítica / outros de crédito existente;carro novo;2775;<100;4<=X<7;2;masculino solteiro;nenhum;2;seguro de vida;31;banco;própria;2;especializado;1;sim;ruim
+sem cheque;24;atrasos anteriores;negócios;3863;<100;1<=X<4;1;masculino solteiro;nenhum;2;nenhuma conhecida;32;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;7;existente e pago;Computador/TV;2329;<100;<1;1;fem div/cas;fiador;1;bens imóveis;45;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;existente e pago;mobilia/equipamento;918;<100;1<=X<4;4;fem div/cas;nenhum;1;seguro de vida;30;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;24;todos pagos;educação;1837;<100;4<=X<7;4;fem div/cas;nenhum;4;nenhuma conhecida;34;banco;gratuitamente;1;não especializado;1;sim;ruim
+sem cheque;36;existente e pago;mobilia/equipamento;3349;<100;1<=X<4;4;fem div/cas;nenhum;2;carro;28;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+>=200;10;existente e pago;mobilia/equipamento;1275;<100;<1;4;fem div/cas;nenhum;2;seguro de vida;23;nenhum;própria;1;especializado;1;sim;bom
+<0;24;todos pagos;mobilia/equipamento;2828;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;22;stores;própria;1;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;negócios;4526;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;74;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;36;existente e pago;Computador/TV;2671;100<=X<500;1<=X<4;4;fem div/cas;co requerente;4;nenhuma conhecida;50;nenhum;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;18;existente e pago;Computador/TV;2051;<100;<1;4;masculino solteiro;nenhum;1;bens imóveis;33;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;15;existente e pago;carro usado;1300;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;45;banco;gratuitamente;1;especializado;2;sim;bom
+<0;12;existente e pago;Eletrodomésticos;741;100<=X<500;desempregado;4;fem div/cas;nenhum;3;seguro de vida;22;nenhum;própria;1;especializado;1;sim;ruim
+>=200;10;existente e pago;carro novo;1240;100<=X<500;>=7;1;fem div/cas;nenhum;4;nenhuma conhecida;48;nenhum;gratuitamente;1;não especializado;2;sim;ruim
+<0;21;existente e pago;Computador/TV;3357;>=1000;<1;4;fem div/cas;nenhum;2;carro;29;banco;própria;1;especializado;1;sim;bom
+<0;24;todos pagos;carro usado;3632;<100;1<=X<4;1;fem div/cas;fiador;4;carro;22;banco;alugada;1;especializado;1;não;bom
+sem cheque;18;atrasos anteriores;mobilia/equipamento;1808;<100;4<=X<7;4;fem div/cas;nenhum;1;bens imóveis;22;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;48;sem créditos/todos pagos;negócios;12204;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;2;carro;48;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;60;atrasos anteriores;Computador/TV;9157;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;2;nenhuma conhecida;27;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;6;crítica / outros de crédito existente;carro novo;3676;<100;1<=X<4;1;masculino solteiro;nenhum;3;bens imóveis;37;nenhum;alugada;3;especializado;2;sim;bom
+0<=X<200;30;existente e pago;mobilia/equipamento;3441;100<=X<500;1<=X<4;2;fem div/cas;co requerente;4;carro;21;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;12;existente e pago;carro novo;640;<100;1<=X<4;4;masculino div/sep;nenhum;2;bens imóveis;49;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;21;crítica / outros de crédito existente;negócios;3652;<100;4<=X<7;2;masculino solteiro;nenhum;3;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;carro novo;1530;<100;1<=X<4;3;masculino solteiro;nenhum;2;seguro de vida;32;banco;própria;2;especializado;1;sim;ruim
+sem cheque;48;existente e pago;negócios;3914;nenhuma economia conhecida;1<=X<4;4;masculino div/sep;nenhum;2;bens imóveis;38;banco;própria;1;especializado;1;sim;ruim
+<0;12;existente e pago;mobilia/equipamento;1858;<100;<1;4;fem div/cas;nenhum;1;carro;22;nenhum;alugada;1;especializado;1;sim;bom
+<0;18;existente e pago;Computador/TV;2600;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;65;nenhum;gratuitamente;2;especializado;1;sim;ruim
+sem cheque;15;existente e pago;Computador/TV;1979;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;2;carro;35;nenhum;própria;1;especializado;1;sim;bom
+>=200;6;existente e pago;mobilia/equipamento;2116;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;41;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;todos pagos;carro novo;1437;100<=X<500;4<=X<7;2;masculino solteiro;nenhum;3;nenhuma conhecida;29;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;42;crítica / outros de crédito existente;mobilia/equipamento;4042;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;9;existente e pago;educação;3832;nenhuma economia conhecida;>=7;1;masculino solteiro;nenhum;4;bens imóveis;64;nenhum;própria;1;não especializado;1;sim;bom
+<0;24;existente e pago;Computador/TV;3660;<100;1<=X<4;2;fem div/cas;nenhum;4;carro;28;nenhum;própria;1;especializado;1;sim;bom
+<0;18;todos pagos;mobilia/equipamento;1553;<100;1<=X<4;4;masculino solteiro;nenhum;3;carro;44;banco;própria;1;especializado;1;sim;ruim
+0<=X<200;15;existente e pago;Computador/TV;1444;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;1;seguro de vida;23;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;9;existente e pago;mobilia/equipamento;1980;<100;<1;2;fem div/cas;co requerente;2;carro;19;nenhum;alugada;2;especializado;1;sim;ruim
+0<=X<200;24;existente e pago;carro novo;1355;<100;<1;3;fem div/cas;nenhum;4;carro;25;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;12;existente e pago;educação;1393;<100;>=7;4;masculino solteiro;nenhum;4;seguro de vida;47;banco;própria;3;especializado;2;sim;bom
+sem cheque;24;existente e pago;Computador/TV;1376;500<=X<1000;4<=X<7;4;fem div/cas;nenhum;1;carro;28;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;60;atrasos anteriores;Computador/TV;15653;<100;4<=X<7;2;masculino solteiro;nenhum;4;carro;21;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;1493;<100;<1;4;fem div/cas;nenhum;3;carro;34;nenhum;própria;1;especializado;2;sim;bom
+<0;42;atrasos anteriores;Computador/TV;4370;<100;4<=X<7;3;masculino solteiro;nenhum;2;seguro de vida;26;banco;própria;2;especializado;2;sim;ruim
+<0;18;existente e pago;educação;750;<100;desempregado;4;fem div/cas;nenhum;1;bens imóveis;27;nenhum;própria;1;unemp/unespecializado non res;1;sim;ruim
+0<=X<200;15;existente e pago;obras;1308;<100;>=7;4;masculino solteiro;nenhum;4;carro;38;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;15;existente e pago;educação;4623;100<=X<500;1<=X<4;3;masculino solteiro;nenhum;2;seguro de vida;40;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;1851;<100;4<=X<7;4;masculino casado/viuvo;fiador;2;carro;33;nenhum;própria;2;especializado;1;sim;bom
+<0;18;crítica / outros de crédito existente;Computador/TV;1880;<100;4<=X<7;4;masculino casado/viuvo;nenhum;1;seguro de vida;32;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;36;atrasos anteriores;negócios;7980;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;4;carro;27;nenhum;alugada;2;especializado;1;sim;ruim
+<0;30;sem créditos/todos pagos;mobilia/equipamento;4583;<100;1<=X<4;2;masculino div/sep;fiador;2;bens imóveis;32;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;existente e pago;carro novo;1386;500<=X<1000;1<=X<4;2;fem div/cas;nenhum;2;seguro de vida;26;nenhum;própria;1;especializado;1;sim;ruim
+>=200;24;existente e pago;carro novo;947;<100;4<=X<7;4;masculino solteiro;nenhum;3;nenhuma conhecida;38;banco;gratuitamente;1;especializado;2;sim;ruim
+<0;12;existente e pago;educação;684;<100;1<=X<4;4;masculino solteiro;nenhum;4;carro;40;nenhum;alugada;1;não especializado;2;sim;ruim
+<0;48;existente e pago;educação;7476;<100;4<=X<7;4;masculino solteiro;nenhum;1;nenhuma conhecida;50;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;12;existente e pago;mobilia/equipamento;1922;<100;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;37;nenhum;própria;1;não especializado;1;sim;ruim
+<0;24;existente e pago;carro novo;2303;<100;>=7;4;masculino solteiro;co requerente;1;bens imóveis;45;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;36;atrasos anteriores;carro novo;8086;100<=X<500;>=7;2;masculino solteiro;nenhum;4;carro;42;nenhum;própria;4;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro usado;2346;<100;4<=X<7;4;masculino solteiro;nenhum;3;carro;35;nenhum;própria;2;especializado;1;sim;bom
+<0;14;existente e pago;carro novo;3973;<100;desempregado;1;masculino solteiro;nenhum;4;nenhuma conhecida;22;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;888;<100;>=7;4;masculino solteiro;nenhum;4;carro;41;banco;própria;1;não especializado;2;sim;ruim
+sem cheque;48;existente e pago;Computador/TV;10222;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;3;carro;37;stores;própria;1;especializado;1;sim;bom
+0<=X<200;30;sem créditos/todos pagos;negócios;4221;<100;1<=X<4;2;fem div/cas;nenhum;1;carro;28;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;mobilia/equipamento;6361;<100;>=7;2;masculino solteiro;nenhum;1;nenhuma conhecida;41;nenhum;própria;1;especializado;1;sim;bom
+>=200;12;existente e pago;Computador/TV;1297;<100;1<=X<4;3;masculino casado/viuvo;nenhum;4;bens imóveis;23;nenhum;alugada;1;especializado;1;sim;bom
+<0;12;existente e pago;carro novo;900;nenhuma economia conhecida;1<=X<4;4;masculino casado/viuvo;nenhum;2;carro;23;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;21;existente e pago;mobilia/equipamento;2241;<100;>=7;4;masculino solteiro;nenhum;2;bens imóveis;50;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;6;atrasos anteriores;mobilia/equipamento;1050;<100;desempregado;4;masculino solteiro;nenhum;1;seguro de vida;35;stores;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;6;crítica / outros de crédito existente;educação;1047;<100;1<=X<4;2;fem div/cas;nenhum;4;seguro de vida;50;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;outros;6314;<100;desempregado;4;masculino solteiro;co requerente;2;nenhuma conhecida;27;banco;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;30;todos pagos;mobilia/equipamento;3496;>=1000;1<=X<4;4;masculino solteiro;nenhum;2;carro;34;stores;própria;1;especializado;2;sim;bom
+sem cheque;48;todos pagos;negócios;3609;<100;1<=X<4;1;fem div/cas;nenhum;1;bens imóveis;27;stores;própria;1;especializado;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro novo;4843;<100;>=7;3;masculino solteiro;co requerente;4;seguro de vida;43;nenhum;alugada;2;especializado;1;sim;ruim
+>=200;30;crítica / outros de crédito existente;Computador/TV;3017;<100;>=7;4;masculino solteiro;nenhum;4;seguro de vida;47;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;negócios;4139;100<=X<500;1<=X<4;3;masculino solteiro;nenhum;3;seguro de vida;27;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;36;existente e pago;negócios;5742;100<=X<500;4<=X<7;2;masculino solteiro;nenhum;2;carro;31;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;60;existente e pago;carro novo;10366;<100;>=7;2;masculino solteiro;nenhum;4;seguro de vida;42;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;6;crítica / outros de crédito existente;carro novo;2080;500<=X<1000;1<=X<4;1;masculino casado/viuvo;nenhum;2;carro;24;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;21;atrasos anteriores;negócios;2580;500<=X<1000;<1;4;masculino solteiro;nenhum;2;bens imóveis;41;banco;própria;1;não especializado;2;sim;ruim
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;4530;<100;4<=X<7;4;fem div/cas;nenhum;4;carro;26;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;mobilia/equipamento;5150;<100;>=7;4;masculino solteiro;nenhum;4;carro;33;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;72;existente e pago;Computador/TV;5595;100<=X<500;1<=X<4;2;masculino casado/viuvo;nenhum;2;carro;24;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;Computador/TV;2384;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;64;banco;alugada;1;não especializado;1;sim;bom
+sem cheque;18;existente e pago;Computador/TV;1453;<100;<1;3;fem div/cas;nenhum;1;bens imóveis;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;6;existente e pago;educação;1538;<100;<1;1;fem div/cas;nenhum;2;nenhuma conhecida;56;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;2279;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;37;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;15;atrasos anteriores;Computador/TV;1478;<100;1<=X<4;4;masculino casado/viuvo;nenhum;3;bens imóveis;33;banco;própria;2;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;5103;<100;<1;3;masculino casado/viuvo;nenhum;3;nenhuma conhecida;47;nenhum;gratuitamente;3;especializado;1;sim;bom
+0<=X<200;36;atrasos anteriores;negócios;9857;100<=X<500;4<=X<7;1;masculino solteiro;nenhum;3;seguro de vida;31;nenhum;própria;2;não especializado;2;sim;bom
+sem cheque;60;existente e pago;carro novo;6527;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;34;nenhum;gratuitamente;1;especializado;2;sim;bom
+>=200;10;crítica / outros de crédito existente;Computador/TV;1347;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;2;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;36;atrasos anteriores;carro novo;2862;100<=X<500;>=7;4;masculino solteiro;nenhum;3;nenhuma conhecida;30;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;9;existente e pago;Computador/TV;2753;100<=X<500;>=7;3;masculino solteiro;co requerente;4;carro;35;nenhum;própria;1;especializado;1;sim;bom
+<0;12;existente e pago;carro novo;3651;>=1000;1<=X<4;1;masculino solteiro;nenhum;3;seguro de vida;31;nenhum;própria;1;especializado;2;sim;bom
+<0;15;crítica / outros de crédito existente;mobilia/equipamento;975;<100;1<=X<4;2;masculino div/sep;nenhum;3;seguro de vida;25;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;15;existente e pago;obras;2631;100<=X<500;1<=X<4;3;fem div/cas;nenhum;2;bens imóveis;25;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;24;existente e pago;Computador/TV;2896;100<=X<500;<1;2;masculino solteiro;nenhum;1;carro;29;nenhum;própria;1;especializado;1;sim;bom
+<0;6;crítica / outros de crédito existente;carro novo;4716;nenhuma economia conhecida;<1;1;masculino solteiro;nenhum;3;bens imóveis;44;nenhum;própria;2;não especializado;2;sim;bom
+sem cheque;24;existente e pago;Computador/TV;2284;<100;4<=X<7;4;masculino solteiro;nenhum;2;carro;28;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;6;existente e pago;carro usado;1236;500<=X<1000;1<=X<4;2;masculino solteiro;nenhum;4;seguro de vida;50;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1103;<100;4<=X<7;4;masculino solteiro;fiador;3;bens imóveis;29;nenhum;própria;2;especializado;1;não;bom
+sem cheque;12;crítica / outros de crédito existente;carro novo;926;<100;desempregado;1;fem div/cas;nenhum;2;seguro de vida;38;nenhum;própria;1;unemp/unespecializado non res;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;1800;<100;1<=X<4;4;masculino solteiro;nenhum;2;carro;24;nenhum;própria;2;especializado;1;sim;bom
+>=200;15;existente e pago;educação;1905;<100;>=7;4;masculino solteiro;nenhum;4;carro;40;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;mobilia/equipamento;1123;500<=X<1000;1<=X<4;4;fem div/cas;nenhum;4;carro;29;nenhum;alugada;1;não especializado;1;sim;ruim
+<0;48;crítica / outros de crédito existente;carro usado;6331;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;46;nenhum;gratuitamente;2;especializado;1;sim;ruim
+>=200;24;existente e pago;Computador/TV;1377;100<=X<500;>=7;4;fem div/cas;nenhum;2;nenhuma conhecida;47;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;30;atrasos anteriores;negócios;2503;100<=X<500;>=7;4;masculino solteiro;nenhum;2;seguro de vida;41;stores;própria;2;especializado;1;sim;bom
+0<=X<200;27;existente e pago;negócios;2528;<100;<1;4;fem div/cas;nenhum;1;seguro de vida;32;nenhum;própria;1;especializado;2;sim;bom
+sem cheque;15;existente e pago;carro novo;5324;500<=X<1000;>=7;1;fem div/cas;nenhum;4;nenhuma conhecida;35;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;48;existente e pago;carro novo;6560;100<=X<500;4<=X<7;3;masculino solteiro;nenhum;2;seguro de vida;24;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;12;sem créditos/todos pagos;mobilia/equipamento;2969;<100;<1;4;fem div/cas;nenhum;3;seguro de vida;25;nenhum;alugada;2;especializado;1;sim;ruim
+0<=X<200;9;existente e pago;Computador/TV;1206;<100;>=7;4;fem div/cas;nenhum;4;bens imóveis;25;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;9;existente e pago;Computador/TV;2118;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;37;nenhum;própria;1;não especializado;2;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;629;500<=X<1000;>=7;4;masculino solteiro;nenhum;3;seguro de vida;32;banco;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;6;todos pagos;educação;1198;<100;>=7;4;fem div/cas;nenhum;4;nenhuma conhecida;35;nenhum;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;21;existente e pago;carro usado;2476;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;bens imóveis;46;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;9;crítica / outros de crédito existente;Computador/TV;1138;<100;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;25;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;60;existente e pago;carro novo;14027;<100;4<=X<7;4;masculino solteiro;nenhum;2;nenhuma conhecida;27;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;30;crítica / outros de crédito existente;carro usado;7596;nenhuma economia conhecida;>=7;1;masculino solteiro;nenhum;4;carro;63;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;3077;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;2;carro;40;nenhum;própria;2;especializado;2;sim;bom
+sem cheque;18;existente e pago;Computador/TV;1505;<100;1<=X<4;4;masculino solteiro;nenhum;2;nenhuma conhecida;32;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;24;crítica / outros de crédito existente;Computador/TV;3148;nenhuma economia conhecida;1<=X<4;3;masculino solteiro;nenhum;2;carro;31;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;20;sem créditos/todos pagos;carro usado;6148;100<=X<500;>=7;3;masculino casado/viuvo;nenhum;4;carro;31;banco;própria;2;especializado;1;sim;bom
+>=200;9;sem créditos/todos pagos;Computador/TV;1337;<100;<1;4;masculino solteiro;nenhum;2;carro;34;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+0<=X<200;6;todos pagos;educação;433;>=1000;<1;4;fem div/cas;nenhum;2;seguro de vida;24;banco;alugada;1;especializado;2;sim;ruim
+<0;12;existente e pago;carro novo;1228;<100;1<=X<4;4;fem div/cas;nenhum;2;bens imóveis;24;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;9;existente e pago;Computador/TV;790;500<=X<1000;1<=X<4;4;fem div/cas;nenhum;3;bens imóveis;66;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;27;existente e pago;carro novo;2570;<100;1<=X<4;3;fem div/cas;nenhum;3;bens imóveis;21;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;6;crítica / outros de crédito existente;carro novo;250;>=1000;1<=X<4;2;fem div/cas;nenhum;2;bens imóveis;41;banco;própria;2;não especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;Computador/TV;1316;500<=X<1000;1<=X<4;2;masculino casado/viuvo;nenhum;2;seguro de vida;47;nenhum;própria;2;não especializado;1;sim;bom
+<0;18;existente e pago;Computador/TV;1882;<100;1<=X<4;4;fem div/cas;nenhum;4;carro;25;banco;alugada;2;especializado;1;sim;ruim
+0<=X<200;48;todos pagos;negócios;6416;<100;>=7;4;fem div/cas;nenhum;3;nenhuma conhecida;59;nenhum;alugada;1;especializado;1;sim;ruim
+>=200;24;crítica / outros de crédito existente;negócios;1275;>=1000;1<=X<4;2;masculino div/sep;nenhum;4;bens imóveis;36;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;24;atrasos anteriores;Computador/TV;6403;<100;<1;1;masculino solteiro;nenhum;2;carro;33;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;Computador/TV;1987;<100;1<=X<4;2;masculino solteiro;nenhum;4;bens imóveis;21;nenhum;alugada;1;não especializado;2;sim;ruim
+0<=X<200;8;existente e pago;Computador/TV;760;<100;4<=X<7;4;fem div/cas;fiador;2;bens imóveis;44;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;24;existente e pago;carro usado;2603;>=1000;1<=X<4;2;fem div/cas;nenhum;4;carro;28;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;4;crítica / outros de crédito existente;carro novo;3380;<100;4<=X<7;1;fem div/cas;nenhum;1;bens imóveis;37;nenhum;própria;1;especializado;2;sim;bom
+0<=X<200;36;todos pagos;Eletrodomésticos;3990;nenhuma economia conhecida;<1;3;fem div/cas;nenhum;2;nenhuma conhecida;29;banco;própria;1;unemp/unespecializado non res;1;sim;bom
+0<=X<200;24;existente e pago;carro usado;11560;<100;1<=X<4;1;fem div/cas;nenhum;4;carro;23;nenhum;alugada;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;18;existente e pago;carro novo;4380;100<=X<500;1<=X<4;3;masculino solteiro;nenhum;4;carro;35;nenhum;própria;1;não especializado;2;sim;bom
+sem cheque;6;crítica / outros de crédito existente;carro novo;6761;<100;4<=X<7;1;masculino solteiro;nenhum;3;nenhuma conhecida;45;nenhum;própria;2;alta qualificação/autonomo/Gerente;2;sim;bom
+0<=X<200;30;sem créditos/todos pagos;negócios;4280;100<=X<500;1<=X<4;4;fem div/cas;nenhum;4;carro;26;nenhum;alugada;2;não especializado;1;sim;ruim
+<0;24;todos pagos;carro novo;2325;100<=X<500;4<=X<7;2;masculino solteiro;nenhum;3;carro;32;banco;própria;1;especializado;1;sim;bom
+0<=X<200;10;todos pagos;Computador/TV;1048;<100;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;23;stores;própria;1;não especializado;1;sim;bom
+sem cheque;21;existente e pago;Computador/TV;3160;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;3;seguro de vida;41;nenhum;própria;1;especializado;1;sim;bom
+<0;24;todos pagos;mobilia/equipamento;2483;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;4;bens imóveis;22;stores;própria;1;especializado;1;sim;bom
+<0;39;crítica / outros de crédito existente;mobilia/equipamento;14179;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;4;seguro de vida;30;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;13;crítica / outros de crédito existente;negócios;1797;<100;<1;3;masculino solteiro;nenhum;1;seguro de vida;28;banco;própria;2;não especializado;1;sim;bom
+<0;15;existente e pago;carro novo;2511;<100;desempregado;1;fem div/cas;nenhum;4;carro;23;nenhum;alugada;1;especializado;1;sim;bom
+<0;12;existente e pago;carro novo;1274;<100;<1;3;fem div/cas;nenhum;1;bens imóveis;37;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;21;existente e pago;carro usado;5248;nenhuma economia conhecida;1<=X<4;1;masculino solteiro;nenhum;3;carro;26;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;15;existente e pago;carro usado;3029;<100;4<=X<7;2;masculino solteiro;nenhum;2;carro;33;nenhum;própria;1;especializado;1;sim;bom
+<0;6;existente e pago;mobilia/equipamento;428;<100;>=7;2;fem div/cas;nenhum;1;seguro de vida;49;banco;própria;1;especializado;1;sim;bom
+<0;18;existente e pago;carro novo;976;<100;<1;1;fem div/cas;nenhum;2;carro;23;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;12;existente e pago;negócios;841;100<=X<500;4<=X<7;2;fem div/cas;nenhum;4;bens imóveis;23;nenhum;alugada;1;não especializado;1;sim;bom
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;5771;<100;4<=X<7;4;fem div/cas;nenhum;2;carro;25;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;atrasos anteriores;obras;1555;>=1000;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;55;nenhum;gratuitamente;2;especializado;2;sim;ruim
+<0;24;existente e pago;carro novo;1285;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;4;nenhuma conhecida;32;nenhum;alugada;1;especializado;1;sim;ruim
+>=200;6;crítica / outros de crédito existente;carro novo;1299;<100;1<=X<4;1;masculino solteiro;nenhum;1;bens imóveis;74;nenhum;própria;3;unemp/unespecializado non res;2;não;bom
+>=200;15;crítica / outros de crédito existente;Computador/TV;1271;nenhuma economia conhecida;1<=X<4;3;masculino solteiro;nenhum;4;nenhuma conhecida;39;nenhum;gratuitamente;2;especializado;1;sim;ruim
+sem cheque;24;existente e pago;carro novo;1393;<100;1<=X<4;2;masculino solteiro;fiador;2;bens imóveis;31;nenhum;própria;1;especializado;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro novo;691;<100;>=7;4;masculino solteiro;nenhum;3;seguro de vida;35;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;15;crítica / outros de crédito existente;carro novo;5045;nenhuma economia conhecida;>=7;1;fem div/cas;nenhum;4;carro;59;nenhum;própria;1;especializado;1;sim;bom
+<0;18;crítica / outros de crédito existente;mobilia/equipamento;2124;<100;1<=X<4;4;fem div/cas;nenhum;4;bens imóveis;24;nenhum;alugada;2;especializado;1;sim;ruim
+<0;12;existente e pago;Computador/TV;2214;<100;1<=X<4;4;masculino solteiro;nenhum;3;seguro de vida;24;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;21;crítica / outros de crédito existente;carro novo;12680;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;30;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro novo;2463;100<=X<500;4<=X<7;4;masculino casado/viuvo;nenhum;3;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;Computador/TV;1155;<100;>=7;3;masculino casado/viuvo;fiador;3;bens imóveis;40;banco;própria;2;não especializado;1;sim;bom
+<0;30;existente e pago;mobilia/equipamento;3108;<100;<1;2;masculino div/sep;nenhum;4;seguro de vida;31;nenhum;própria;1;não especializado;1;sim;ruim
+sem cheque;10;existente e pago;carro usado;2901;nenhuma economia conhecida;<1;1;fem div/cas;nenhum;4;bens imóveis;31;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;12;crítica / outros de crédito existente;mobilia/equipamento;3617;<100;>=7;1;masculino solteiro;nenhum;4;carro;28;nenhum;alugada;3;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;1655;<100;>=7;2;masculino solteiro;nenhum;4;bens imóveis;63;nenhum;própria;2;não especializado;1;sim;bom
+<0;24;existente e pago;carro usado;2812;nenhuma economia conhecida;>=7;2;fem div/cas;nenhum;4;bens imóveis;26;nenhum;alugada;1;especializado;1;sim;bom
+<0;36;crítica / outros de crédito existente;educação;8065;<100;1<=X<4;3;fem div/cas;nenhum;2;nenhuma conhecida;25;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;21;crítica / outros de crédito existente;carro usado;3275;<100;>=7;1;masculino solteiro;nenhum;4;carro;36;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2223;100<=X<500;>=7;4;masculino solteiro;nenhum;4;seguro de vida;52;banco;própria;2;especializado;1;sim;bom
+>=200;12;crítica / outros de crédito existente;carro novo;1480;500<=X<1000;desempregado;2;masculino solteiro;nenhum;4;nenhuma conhecida;66;banco;gratuitamente;3;unemp/unespecializado non res;1;sim;bom
+<0;24;existente e pago;carro novo;1371;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;4;bens imóveis;25;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;carro novo;3535;<100;4<=X<7;4;masculino solteiro;nenhum;4;carro;37;nenhum;própria;2;especializado;1;sim;bom
+<0;18;existente e pago;Computador/TV;3509;<100;4<=X<7;4;fem div/cas;fiador;1;bens imóveis;25;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;36;crítica / outros de crédito existente;carro usado;5711;>=1000;>=7;4;masculino solteiro;nenhum;2;carro;38;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;18;existente e pago;obras;3872;<100;desempregado;2;fem div/cas;nenhum;4;carro;67;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;39;crítica / outros de crédito existente;Computador/TV;4933;<100;4<=X<7;2;masculino solteiro;fiador;2;bens imóveis;25;nenhum;própria;2;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro novo;1940;>=1000;>=7;4;masculino solteiro;nenhum;4;bens imóveis;60;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;12;sem créditos/todos pagos;qualificação;1410;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;31;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;836;100<=X<500;<1;4;fem div/cas;nenhum;2;seguro de vida;23;banco;própria;1;não especializado;1;sim;ruim
+0<=X<200;20;existente e pago;carro usado;6468;nenhuma economia conhecida;desempregado;1;masculino div/sep;nenhum;4;bens imóveis;60;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;18;existente e pago;negócios;1941;>=1000;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;35;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;22;existente e pago;Computador/TV;2675;500<=X<1000;>=7;3;masculino solteiro;nenhum;4;carro;40;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;48;crítica / outros de crédito existente;carro usado;2751;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;3;carro;38;nenhum;própria;2;especializado;2;sim;bom
+0<=X<200;48;atrasos anteriores;educação;6224;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;50;nenhum;gratuitamente;1;especializado;1;sim;ruim
+<0;40;crítica / outros de crédito existente;educação;5998;<100;1<=X<4;4;masculino solteiro;nenhum;3;nenhuma conhecida;27;banco;própria;1;especializado;1;sim;ruim
+0<=X<200;21;existente e pago;negócios;1188;<100;>=7;2;fem div/cas;nenhum;4;seguro de vida;39;nenhum;própria;1;especializado;2;sim;ruim
+sem cheque;24;existente e pago;carro usado;6313;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;4;carro;41;nenhum;própria;1;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;6;crítica / outros de crédito existente;mobilia/equipamento;1221;nenhuma economia conhecida;1<=X<4;1;masculino casado/viuvo;nenhum;2;seguro de vida;27;nenhum;própria;2;especializado;1;sim;bom
+>=200;24;existente e pago;mobilia/equipamento;2892;<100;>=7;3;masculino div/sep;nenhum;4;nenhuma conhecida;51;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;mobilia/equipamento;3062;500<=X<1000;>=7;4;masculino solteiro;nenhum;3;nenhuma conhecida;32;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;9;existente e pago;mobilia/equipamento;2301;100<=X<500;<1;2;fem div/cas;nenhum;4;seguro de vida;22;nenhum;alugada;1;especializado;1;sim;bom
+<0;18;existente e pago;carro usado;7511;nenhuma economia conhecida;>=7;1;masculino solteiro;nenhum;4;seguro de vida;51;nenhum;gratuitamente;1;especializado;2;sim;ruim
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;1258;<100;<1;2;fem div/cas;nenhum;4;seguro de vida;22;nenhum;alugada;2;não especializado;1;sim;bom
+sem cheque;24;atrasos anteriores;carro novo;717;nenhuma economia conhecida;>=7;4;masculino casado/viuvo;nenhum;4;carro;54;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;9;existente e pago;carro novo;1549;nenhuma economia conhecida;<1;4;masculino solteiro;nenhum;2;bens imóveis;35;nenhum;própria;1;unemp/unespecializado non res;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;educação;1597;<100;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;54;nenhum;gratuitamente;2;especializado;2;sim;bom
+0<=X<200;18;crítica / outros de crédito existente;Computador/TV;1795;<100;>=7;3;fem div/cas;fiador;4;bens imóveis;48;banco;alugada;2;não especializado;1;sim;bom
+<0;20;crítica / outros de crédito existente;mobilia/equipamento;4272;<100;>=7;1;fem div/cas;nenhum;4;seguro de vida;24;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;976;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;carro;35;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;12;existente e pago;carro novo;7472;nenhuma economia conhecida;desempregado;1;fem div/cas;nenhum;2;bens imóveis;24;nenhum;alugada;1;unemp/unespecializado non res;1;sim;bom
+<0;36;existente e pago;carro novo;9271;<100;4<=X<7;2;masculino solteiro;nenhum;1;carro;24;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;6;existente e pago;Computador/TV;590;<100;<1;3;masculino casado/viuvo;nenhum;3;bens imóveis;26;nenhum;própria;1;não especializado;1;não;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;930;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;bens imóveis;65;nenhum;própria;4;especializado;1;sim;bom
+0<=X<200;42;todos pagos;carro usado;9283;<100;desempregado;1;masculino solteiro;nenhum;2;nenhuma conhecida;55;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;15;sem créditos/todos pagos;carro novo;1778;<100;<1;2;fem div/cas;nenhum;1;bens imóveis;26;nenhum;alugada;2;unemp/unespecializado non res;1;sim;ruim
+0<=X<200;8;existente e pago;negócios;907;<100;<1;3;masculino casado/viuvo;nenhum;2;bens imóveis;26;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;6;existente e pago;Computador/TV;484;<100;4<=X<7;3;masculino casado/viuvo;fiador;3;bens imóveis;28;banco;própria;1;não especializado;1;sim;bom
+<0;36;crítica / outros de crédito existente;carro usado;9629;<100;4<=X<7;4;masculino solteiro;nenhum;4;carro;24;nenhum;própria;2;especializado;1;sim;ruim
+<0;48;existente e pago;Eletrodomésticos;3051;<100;1<=X<4;3;masculino solteiro;nenhum;4;carro;54;nenhum;própria;1;especializado;1;sim;ruim
+<0;48;existente e pago;carro novo;3931;<100;4<=X<7;4;masculino solteiro;nenhum;4;nenhuma conhecida;46;nenhum;gratuitamente;1;especializado;2;sim;ruim
+0<=X<200;36;atrasos anteriores;carro novo;7432;<100;1<=X<4;2;fem div/cas;nenhum;2;seguro de vida;54;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;6;existente e pago;Eletrodomésticos;1338;500<=X<1000;1<=X<4;1;masculino div/sep;nenhum;4;bens imóveis;62;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;1554;<100;4<=X<7;1;fem div/cas;nenhum;2;carro;24;nenhum;alugada;2;especializado;1;sim;bom
+<0;36;existente e pago;outros;15857;<100;desempregado;2;masculino div/sep;co requerente;3;carro;43;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;18;existente e pago;Computador/TV;1345;<100;1<=X<4;4;masculino casado/viuvo;nenhum;3;bens imóveis;26;banco;própria;1;especializado;1;sim;ruim
+sem cheque;12;existente e pago;carro novo;1101;<100;1<=X<4;3;masculino casado/viuvo;nenhum;2;bens imóveis;27;nenhum;própria;2;especializado;1;sim;bom
+>=200;12;existente e pago;Computador/TV;3016;<100;1<=X<4;3;masculino casado/viuvo;nenhum;1;carro;24;nenhum;própria;1;especializado;1;sim;bom
+<0;36;existente e pago;mobilia/equipamento;2712;<100;>=7;2;masculino solteiro;nenhum;2;seguro de vida;41;banco;própria;1;especializado;2;sim;ruim
+<0;8;crítica / outros de crédito existente;carro novo;731;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;47;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;mobilia/equipamento;3780;<100;<1;3;masculino div/sep;nenhum;2;carro;35;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;21;crítica / outros de crédito existente;carro novo;1602;<100;>=7;4;masculino casado/viuvo;nenhum;3;carro;30;nenhum;própria;2;especializado;1;sim;bom
+<0;18;crítica / outros de crédito existente;carro novo;3966;<100;>=7;1;fem div/cas;nenhum;4;bens imóveis;33;banco;alugada;3;especializado;1;sim;ruim
+sem cheque;18;sem créditos/todos pagos;negócios;4165;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;36;stores;própria;2;especializado;2;sim;ruim
+<0;36;existente e pago;carro usado;8335;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;4;nenhuma conhecida;47;nenhum;gratuitamente;1;especializado;1;sim;ruim
+0<=X<200;48;atrasos anteriores;negócios;6681;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;38;nenhum;gratuitamente;1;especializado;2;sim;bom
+sem cheque;24;atrasos anteriores;negócios;2375;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;2;carro;44;nenhum;própria;2;especializado;2;sim;bom
+<0;18;existente e pago;carro novo;1216;<100;<1;4;fem div/cas;nenhum;3;carro;23;nenhum;alugada;1;especializado;1;sim;ruim
+<0;45;sem créditos/todos pagos;negócios;11816;<100;>=7;2;masculino solteiro;nenhum;4;carro;29;nenhum;alugada;2;especializado;1;sim;ruim
+0<=X<200;24;existente e pago;Computador/TV;5084;nenhuma economia conhecida;>=7;2;fem div/cas;nenhum;4;carro;42;nenhum;própria;1;especializado;1;sim;bom
+>=200;15;existente e pago;Computador/TV;2327;<100;<1;2;fem div/cas;nenhum;3;bens imóveis;25;nenhum;própria;1;não especializado;1;sim;ruim
+<0;12;sem créditos/todos pagos;carro novo;1082;<100;1<=X<4;4;masculino solteiro;nenhum;4;carro;48;banco;própria;2;especializado;1;sim;ruim
+sem cheque;12;existente e pago;Computador/TV;886;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;2;carro;21;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;4;existente e pago;mobilia/equipamento;601;<100;<1;1;fem div/cas;nenhum;3;bens imóveis;23;nenhum;alugada;1;não especializado;2;sim;bom
+<0;24;crítica / outros de crédito existente;carro usado;2957;<100;>=7;4;masculino solteiro;nenhum;4;seguro de vida;63;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;crítica / outros de crédito existente;Computador/TV;2611;<100;>=7;4;masculino casado/viuvo;co requerente;3;bens imóveis;46;nenhum;própria;2;especializado;1;sim;bom
+<0;36;existente e pago;mobilia/equipamento;5179;<100;4<=X<7;4;masculino solteiro;nenhum;2;seguro de vida;29;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;21;atrasos anteriores;carro usado;2993;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;28;stores;própria;2;não especializado;1;sim;bom
+sem cheque;18;existente e pago;obras;1943;<100;<1;4;fem div/cas;nenhum;4;bens imóveis;23;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;24;todos pagos;negócios;1559;<100;4<=X<7;4;masculino solteiro;nenhum;4;carro;50;banco;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;mobilia/equipamento;3422;<100;>=7;4;masculino solteiro;nenhum;4;seguro de vida;47;banco;própria;3;especializado;2;sim;bom
+0<=X<200;21;existente e pago;mobilia/equipamento;3976;nenhuma economia conhecida;4<=X<7;2;masculino solteiro;nenhum;3;carro;35;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;18;existente e pago;carro novo;6761;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;4;carro;68;nenhum;alugada;2;especializado;1;sim;ruim
+sem cheque;24;existente e pago;carro novo;1249;<100;<1;4;masculino casado/viuvo;nenhum;2;bens imóveis;28;nenhum;própria;1;especializado;1;sim;bom
+<0;9;existente e pago;Computador/TV;1364;<100;4<=X<7;3;masculino solteiro;nenhum;4;bens imóveis;59;nenhum;própria;1;especializado;1;sim;bom
+<0;12;existente e pago;Computador/TV;709;<100;>=7;4;masculino solteiro;nenhum;4;bens imóveis;57;stores;própria;1;não especializado;1;sim;ruim
+<0;20;crítica / outros de crédito existente;carro novo;2235;<100;1<=X<4;4;masculino casado/viuvo;fiador;2;seguro de vida;33;banco;alugada;2;especializado;1;não;ruim
+sem cheque;24;crítica / outros de crédito existente;carro usado;4042;nenhuma economia conhecida;4<=X<7;3;masculino solteiro;nenhum;4;seguro de vida;43;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;Computador/TV;1471;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;35;nenhum;gratuitamente;2;especializado;1;sim;bom
+<0;18;todos pagos;carro novo;1442;<100;4<=X<7;4;masculino solteiro;nenhum;4;nenhuma conhecida;32;nenhum;gratuitamente;2;não especializado;2;sim;ruim
+sem cheque;36;atrasos anteriores;carro novo;10875;<100;>=7;2;masculino solteiro;nenhum;2;carro;45;nenhum;própria;2;especializado;2;sim;bom
+sem cheque;24;existente e pago;carro novo;1474;100<=X<500;<1;4;masculino casado/viuvo;nenhum;3;bens imóveis;33;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;10;existente e pago;qualificação;894;nenhuma economia conhecida;4<=X<7;4;fem div/cas;nenhum;3;seguro de vida;40;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;15;crítica / outros de crédito existente;mobilia/equipamento;3343;<100;1<=X<4;4;masculino solteiro;nenhum;2;nenhuma conhecida;28;nenhum;gratuitamente;1;especializado;1;sim;bom
+<0;15;existente e pago;carro novo;3959;<100;1<=X<4;3;fem div/cas;nenhum;2;seguro de vida;29;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;9;existente e pago;carro novo;3577;100<=X<500;1<=X<4;1;masculino solteiro;fiador;2;bens imóveis;26;nenhum;alugada;1;especializado;2;não;bom
+sem cheque;24;crítica / outros de crédito existente;carro usado;5804;>=1000;1<=X<4;4;masculino solteiro;nenhum;2;bens imóveis;27;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;atrasos anteriores;negócios;2169;<100;1<=X<4;4;masculino casado/viuvo;nenhum;2;carro;28;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;Computador/TV;2439;<100;<1;4;fem div/cas;nenhum;4;bens imóveis;35;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;27;crítica / outros de crédito existente;mobilia/equipamento;4526;>=1000;<1;4;masculino solteiro;nenhum;2;bens imóveis;32;stores;própria;2;não especializado;2;sim;bom
+sem cheque;10;existente e pago;mobilia/equipamento;2210;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;25;banco;alugada;1;não especializado;1;sim;ruim
+sem cheque;15;existente e pago;mobilia/equipamento;2221;500<=X<1000;1<=X<4;2;fem div/cas;nenhum;4;carro;20;nenhum;alugada;1;especializado;1;sim;bom
+<0;18;existente e pago;Computador/TV;2389;<100;<1;4;fem div/cas;nenhum;1;carro;27;stores;própria;1;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;3331;<100;>=7;2;masculino solteiro;nenhum;4;seguro de vida;42;stores;própria;1;especializado;1;sim;bom
+sem cheque;36;existente e pago;negócios;7409;nenhuma economia conhecida;>=7;3;masculino solteiro;nenhum;2;seguro de vida;37;nenhum;própria;2;especializado;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;652;<100;>=7;4;fem div/cas;nenhum;4;seguro de vida;24;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;36;atrasos anteriores;mobilia/equipamento;7678;500<=X<1000;4<=X<7;2;fem div/cas;nenhum;4;carro;40;nenhum;própria;2;especializado;1;sim;bom
+>=200;6;crítica / outros de crédito existente;carro novo;1343;<100;>=7;1;masculino solteiro;nenhum;4;bens imóveis;46;nenhum;própria;2;especializado;2;não;bom
+<0;24;crítica / outros de crédito existente;negócios;1382;100<=X<500;4<=X<7;4;masculino solteiro;nenhum;1;bens imóveis;26;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;15;existente e pago;Eletrodomésticos;874;nenhuma economia conhecida;<1;4;fem div/cas;nenhum;1;bens imóveis;24;nenhum;própria;1;especializado;1;sim;bom
+<0;12;existente e pago;mobilia/equipamento;3590;<100;1<=X<4;2;masculino solteiro;co requerente;2;seguro de vida;29;nenhum;própria;1;não especializado;2;sim;bom
+0<=X<200;11;crítica / outros de crédito existente;carro novo;1322;>=1000;1<=X<4;4;fem div/cas;nenhum;4;carro;40;nenhum;própria;2;especializado;1;sim;bom
+<0;18;todos pagos;Computador/TV;1940;<100;<1;3;masculino solteiro;co requerente;4;nenhuma conhecida;36;banco;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;36;existente e pago;Computador/TV;3595;<100;>=7;4;masculino solteiro;nenhum;2;carro;28;nenhum;própria;1;especializado;1;sim;bom
+<0;9;existente e pago;carro novo;1422;<100;<1;3;masculino solteiro;nenhum;2;nenhuma conhecida;27;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;6742;nenhuma economia conhecida;4<=X<7;2;masculino solteiro;nenhum;3;seguro de vida;36;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro usado;7814;<100;4<=X<7;3;masculino solteiro;nenhum;3;carro;38;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;24;existente e pago;carro usado;9277;nenhuma economia conhecida;1<=X<4;2;masculino div/sep;nenhum;4;nenhuma conhecida;48;nenhum;gratuitamente;1;especializado;1;sim;bom
+0<=X<200;30;crítica / outros de crédito existente;carro novo;2181;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;bens imóveis;36;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;1098;<100;desempregado;4;fem div/cas;nenhum;4;carro;65;nenhum;própria;2;unemp/unespecializado non res;1;sim;bom
+0<=X<200;24;existente e pago;mobilia/equipamento;4057;<100;4<=X<7;3;masculino div/sep;nenhum;3;carro;43;nenhum;própria;1;especializado;1;sim;ruim
+<0;12;existente e pago;educação;795;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;53;nenhum;própria;1;especializado;1;sim;ruim
+0<=X<200;24;crítica / outros de crédito existente;negócios;2825;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;3;nenhuma conhecida;34;nenhum;própria;2;especializado;2;sim;bom
+0<=X<200;48;existente e pago;negócios;15672;<100;1<=X<4;2;masculino solteiro;nenhum;2;carro;23;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;36;crítica / outros de crédito existente;carro novo;6614;<100;>=7;4;masculino solteiro;nenhum;4;carro;34;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;28;todos pagos;carro usado;7824;nenhuma economia conhecida;<1;3;masculino solteiro;fiador;4;bens imóveis;40;banco;alugada;2;especializado;2;sim;bom
+<0;27;crítica / outros de crédito existente;negócios;2442;<100;>=7;4;masculino solteiro;nenhum;4;carro;43;stores;própria;4;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;15;crítica / outros de crédito existente;Computador/TV;1829;<100;>=7;4;masculino solteiro;nenhum;4;carro;46;nenhum;própria;2;especializado;1;sim;bom
+<0;12;crítica / outros de crédito existente;carro novo;2171;<100;1<=X<4;4;masculino solteiro;nenhum;4;seguro de vida;38;banco;própria;2;não especializado;1;não;bom
+0<=X<200;36;crítica / outros de crédito existente;carro usado;5800;<100;1<=X<4;3;masculino solteiro;nenhum;4;carro;34;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;18;crítica / outros de crédito existente;Computador/TV;1169;nenhuma economia conhecida;1<=X<4;4;masculino solteiro;nenhum;3;seguro de vida;29;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;36;atrasos anteriores;carro usado;8947;nenhuma economia conhecida;4<=X<7;3;masculino solteiro;nenhum;2;carro;31;stores;própria;1;alta qualificação/autonomo/Gerente;2;sim;bom
+<0;21;existente e pago;Computador/TV;2606;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;28;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;mobilia/equipamento;1592;>=1000;4<=X<7;3;fem div/cas;nenhum;2;seguro de vida;35;nenhum;própria;1;especializado;1;não;bom
+sem cheque;15;existente e pago;mobilia/equipamento;2186;nenhuma economia conhecida;4<=X<7;1;fem div/cas;nenhum;4;bens imóveis;33;banco;alugada;1;não especializado;1;sim;bom
+<0;18;existente e pago;mobilia/equipamento;4153;<100;1<=X<4;2;masculino solteiro;co requerente;3;carro;42;nenhum;própria;1;especializado;1;sim;ruim
+<0;16;crítica / outros de crédito existente;carro novo;2625;<100;>=7;2;masculino solteiro;fiador;4;seguro de vida;43;banco;alugada;1;especializado;1;sim;ruim
+sem cheque;20;crítica / outros de crédito existente;carro novo;3485;nenhuma economia conhecida;<1;2;masculino div/sep;nenhum;4;bens imóveis;44;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;36;crítica / outros de crédito existente;carro usado;10477;nenhuma economia conhecida;>=7;2;masculino solteiro;nenhum;4;nenhuma conhecida;42;nenhum;gratuitamente;2;especializado;1;sim;bom
+sem cheque;15;existente e pago;Computador/TV;1386;nenhuma economia conhecida;1<=X<4;4;masculino casado/viuvo;nenhum;2;bens imóveis;40;nenhum;alugada;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;1278;<100;>=7;4;masculino solteiro;nenhum;1;bens imóveis;36;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;12;existente e pago;Computador/TV;1107;<100;1<=X<4;2;masculino solteiro;nenhum;2;bens imóveis;20;nenhum;alugada;1;alta qualificação/autonomo/Gerente;2;sim;bom
+<0;21;existente e pago;carro novo;3763;nenhuma economia conhecida;4<=X<7;2;masculino solteiro;co requerente;2;bens imóveis;24;nenhum;própria;1;não especializado;1;não;bom
+0<=X<200;36;existente e pago;educação;3711;nenhuma economia conhecida;1<=X<4;2;masculino casado/viuvo;nenhum;2;carro;27;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;15;atrasos anteriores;carro usado;3594;<100;<1;1;fem div/cas;nenhum;2;seguro de vida;46;nenhum;própria;2;não especializado;1;sim;bom
+0<=X<200;9;existente e pago;carro novo;3195;nenhuma economia conhecida;1<=X<4;1;fem div/cas;nenhum;2;bens imóveis;33;nenhum;própria;1;não especializado;1;sim;bom
+sem cheque;36;atrasos anteriores;Computador/TV;4454;<100;1<=X<4;4;fem div/cas;nenhum;4;bens imóveis;34;nenhum;própria;2;especializado;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;mobilia/equipamento;4736;<100;<1;2;fem div/cas;nenhum;4;carro;25;banco;própria;1;não especializado;1;sim;ruim
+0<=X<200;30;existente e pago;Computador/TV;2991;nenhuma economia conhecida;>=7;2;fem div/cas;nenhum;4;carro;25;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;11;existente e pago;negócios;2142;>=1000;>=7;1;masculino div/sep;nenhum;2;bens imóveis;28;nenhum;própria;1;especializado;1;sim;bom
+<0;24;todos pagos;negócios;3161;<100;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;31;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;48;sem créditos/todos pagos;outros;18424;<100;1<=X<4;1;fem div/cas;nenhum;2;seguro de vida;32;banco;própria;1;alta qualificação/autonomo/Gerente;1;não;ruim
+sem cheque;10;existente e pago;carro usado;2848;100<=X<500;1<=X<4;1;masculino solteiro;co requerente;2;bens imóveis;32;nenhum;própria;1;especializado;2;sim;bom
+<0;6;existente e pago;carro novo;14896;<100;>=7;1;masculino solteiro;nenhum;4;nenhuma conhecida;68;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;24;existente e pago;mobilia/equipamento;2359;100<=X<500;desempregado;1;masculino div/sep;nenhum;1;seguro de vida;33;nenhum;própria;1;especializado;1;sim;ruim
+<0;24;existente e pago;mobilia/equipamento;3345;<100;>=7;4;masculino solteiro;nenhum;2;seguro de vida;39;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+sem cheque;18;crítica / outros de crédito existente;mobilia/equipamento;1817;<100;1<=X<4;4;fem div/cas;nenhum;2;nenhuma conhecida;28;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;48;atrasos anteriores;Computador/TV;12749;500<=X<1000;4<=X<7;4;masculino solteiro;nenhum;1;carro;37;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;9;existente e pago;Computador/TV;1366;<100;<1;3;fem div/cas;nenhum;4;seguro de vida;22;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;12;existente e pago;carro novo;2002;<100;4<=X<7;3;masculino solteiro;nenhum;4;seguro de vida;30;nenhum;alugada;1;especializado;2;sim;bom
+<0;24;todos pagos;mobilia/equipamento;6872;<100;<1;2;masculino div/sep;nenhum;1;seguro de vida;55;banco;própria;1;especializado;1;sim;ruim
+<0;12;todos pagos;carro novo;697;<100;<1;4;masculino solteiro;nenhum;2;carro;46;banco;própria;2;especializado;1;sim;ruim
+<0;18;crítica / outros de crédito existente;mobilia/equipamento;1049;<100;<1;4;fem div/cas;nenhum;4;seguro de vida;21;nenhum;alugada;1;especializado;1;sim;bom
+<0;48;existente e pago;carro usado;10297;<100;4<=X<7;4;masculino solteiro;nenhum;4;nenhuma conhecida;39;stores;gratuitamente;3;especializado;2;sim;ruim
+sem cheque;30;existente e pago;Computador/TV;1867;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;carro;58;nenhum;própria;1;especializado;1;sim;bom
+<0;12;atrasos anteriores;carro novo;1344;<100;1<=X<4;4;masculino solteiro;nenhum;2;bens imóveis;43;nenhum;própria;2;não especializado;2;sim;bom
+<0;24;existente e pago;mobilia/equipamento;1747;<100;<1;4;masculino solteiro;co requerente;1;seguro de vida;24;nenhum;própria;1;não especializado;1;não;bom
+0<=X<200;9;existente e pago;Computador/TV;1670;<100;<1;4;fem div/cas;nenhum;2;carro;22;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;9;crítica / outros de crédito existente;carro novo;1224;<100;1<=X<4;3;masculino solteiro;nenhum;1;bens imóveis;30;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;Computador/TV;522;500<=X<1000;>=7;4;masculino solteiro;nenhum;4;seguro de vida;42;nenhum;própria;2;especializado;2;sim;bom
+<0;12;existente e pago;Computador/TV;1498;<100;1<=X<4;4;fem div/cas;nenhum;1;carro;23;banco;própria;1;especializado;1;sim;bom
+0<=X<200;30;atrasos anteriores;Computador/TV;1919;100<=X<500;<1;4;masculino solteiro;nenhum;3;nenhuma conhecida;30;stores;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+>=200;9;existente e pago;Computador/TV;745;<100;1<=X<4;3;fem div/cas;nenhum;2;bens imóveis;28;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;6;existente e pago;Computador/TV;2063;<100;<1;4;masculino casado/viuvo;nenhum;3;carro;30;nenhum;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;60;existente e pago;educação;6288;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;42;nenhum;gratuitamente;1;especializado;1;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;carro usado;6842;nenhuma economia conhecida;1<=X<4;2;masculino solteiro;nenhum;4;seguro de vida;46;nenhum;própria;2;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;12;existente e pago;carro novo;3527;nenhuma economia conhecida;<1;2;masculino solteiro;nenhum;3;seguro de vida;45;nenhum;própria;1;alta qualificação/autonomo/Gerente;2;sim;bom
+sem cheque;10;existente e pago;carro novo;1546;<100;1<=X<4;3;masculino solteiro;nenhum;2;bens imóveis;31;nenhum;própria;1;não especializado;2;não;bom
+sem cheque;24;existente e pago;mobilia/equipamento;929;nenhuma economia conhecida;4<=X<7;4;masculino solteiro;nenhum;2;carro;31;stores;própria;1;especializado;1;sim;bom
+sem cheque;4;crítica / outros de crédito existente;carro novo;1455;<100;4<=X<7;2;masculino solteiro;nenhum;1;bens imóveis;42;nenhum;própria;3;não especializado;2;sim;bom
+<0;15;existente e pago;mobilia/equipamento;1845;<100;<1;4;fem div/cas;fiador;1;seguro de vida;46;nenhum;alugada;1;especializado;1;sim;bom
+0<=X<200;48;sem créditos/todos pagos;carro novo;8358;500<=X<1000;<1;1;fem div/cas;nenhum;1;carro;30;nenhum;própria;2;especializado;1;sim;bom
+<0;24;todos pagos;mobilia/equipamento;3349;500<=X<1000;<1;4;masculino solteiro;nenhum;4;nenhuma conhecida;30;nenhum;gratuitamente;1;especializado;2;sim;ruim
+sem cheque;12;existente e pago;carro novo;2859;nenhuma economia conhecida;desempregado;4;masculino solteiro;nenhum;4;nenhuma conhecida;38;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;18;existente e pago;mobilia/equipamento;1533;<100;<1;4;masculino casado/viuvo;co requerente;1;seguro de vida;43;nenhum;própria;1;não especializado;2;sim;ruim
+sem cheque;24;existente e pago;Computador/TV;3621;100<=X<500;>=7;2;masculino solteiro;nenhum;4;carro;31;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;18;crítica / outros de crédito existente;negócios;3590;<100;desempregado;3;masculino casado/viuvo;nenhum;3;carro;40;nenhum;própria;3;unemp/unespecializado non res;2;sim;bom
+<0;36;atrasos anteriores;negócios;2145;<100;4<=X<7;2;masculino solteiro;nenhum;1;carro;24;nenhum;própria;2;especializado;1;sim;ruim
+0<=X<200;24;existente e pago;carro usado;4113;500<=X<1000;<1;3;fem div/cas;nenhum;4;carro;28;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;36;existente e pago;mobilia/equipamento;10974;<100;desempregado;4;fem div/cas;nenhum;2;carro;26;nenhum;própria;2;alta qualificação/autonomo/Gerente;1;sim;ruim
+<0;12;existente e pago;carro novo;1893;<100;1<=X<4;4;fem div/cas;fiador;4;seguro de vida;29;nenhum;própria;1;especializado;1;sim;bom
+<0;24;crítica / outros de crédito existente;Computador/TV;1231;>=1000;>=7;4;fem div/cas;nenhum;4;seguro de vida;57;nenhum;alugada;2;alta qualificação/autonomo/Gerente;1;sim;bom
+>=200;30;crítica / outros de crédito existente;Computador/TV;3656;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;4;seguro de vida;49;stores;própria;2;não especializado;1;sim;bom
+0<=X<200;9;crítica / outros de crédito existente;Computador/TV;1154;<100;>=7;2;masculino solteiro;nenhum;4;bens imóveis;37;nenhum;própria;3;não especializado;1;sim;bom
+<0;28;existente e pago;carro novo;4006;<100;1<=X<4;3;masculino solteiro;nenhum;2;carro;45;nenhum;própria;1;não especializado;1;sim;ruim
+0<=X<200;24;existente e pago;mobilia/equipamento;3069;100<=X<500;>=7;4;masculino solteiro;nenhum;4;nenhuma conhecida;30;nenhum;gratuitamente;1;especializado;1;sim;bom
+sem cheque;6;crítica / outros de crédito existente;Computador/TV;1740;<100;>=7;2;masculino casado/viuvo;nenhum;2;bens imóveis;30;nenhum;alugada;2;especializado;1;sim;bom
+0<=X<200;21;atrasos anteriores;carro novo;2353;<100;1<=X<4;1;masculino div/sep;nenhum;4;seguro de vida;47;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;15;existente e pago;carro novo;3556;nenhuma economia conhecida;1<=X<4;3;masculino solteiro;nenhum;2;nenhuma conhecida;29;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;Computador/TV;2397;500<=X<1000;>=7;3;masculino solteiro;nenhum;2;carro;35;banco;própria;2;especializado;1;sim;ruim
+0<=X<200;6;existente e pago;obras;454;<100;<1;3;masculino casado/viuvo;nenhum;1;seguro de vida;22;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;30;existente e pago;Computador/TV;1715;nenhuma economia conhecida;1<=X<4;4;fem div/cas;nenhum;1;carro;26;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;27;crítica / outros de crédito existente;Computador/TV;2520;500<=X<1000;1<=X<4;4;masculino solteiro;nenhum;2;seguro de vida;23;nenhum;própria;2;não especializado;1;sim;ruim
+sem cheque;15;existente e pago;Computador/TV;3568;<100;>=7;4;fem div/cas;nenhum;2;carro;54;banco;alugada;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;42;existente e pago;Computador/TV;7166;nenhuma economia conhecida;4<=X<7;2;masculino casado/viuvo;nenhum;4;seguro de vida;29;nenhum;alugada;1;especializado;1;sim;bom
+<0;11;crítica / outros de crédito existente;carro novo;3939;<100;1<=X<4;1;masculino solteiro;nenhum;2;bens imóveis;40;nenhum;própria;2;não especializado;2;sim;bom
+0<=X<200;15;existente e pago;obras;1514;100<=X<500;1<=X<4;4;masculino solteiro;fiador;2;bens imóveis;22;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;24;existente e pago;carro novo;7393;<100;1<=X<4;1;masculino solteiro;nenhum;4;seguro de vida;43;nenhum;própria;1;não especializado;2;sim;bom
+<0;24;todos pagos;carro novo;1193;<100;desempregado;1;fem div/cas;co requerente;4;nenhuma conhecida;29;nenhum;alugada;2;unemp/unespecializado non res;1;sim;ruim
+<0;60;existente e pago;negócios;7297;<100;>=7;4;masculino solteiro;co requerente;4;nenhuma conhecida;36;nenhum;alugada;1;especializado;1;sim;ruim
+sem cheque;30;crítica / outros de crédito existente;Computador/TV;2831;<100;1<=X<4;4;fem div/cas;nenhum;2;carro;33;nenhum;própria;1;especializado;1;sim;bom
+>=200;24;existente e pago;Computador/TV;1258;500<=X<1000;1<=X<4;3;fem div/cas;nenhum;3;carro;57;nenhum;própria;1;não especializado;1;sim;bom
+0<=X<200;6;existente e pago;Computador/TV;753;<100;1<=X<4;2;fem div/cas;fiador;3;bens imóveis;64;nenhum;própria;1;especializado;1;sim;bom
+0<=X<200;18;atrasos anteriores;negócios;2427;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;2;seguro de vida;42;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;24;atrasos anteriores;carro novo;2538;<100;>=7;4;masculino solteiro;nenhum;4;carro;47;nenhum;própria;2;não especializado;2;sim;ruim
+0<=X<200;15;todos pagos;carro novo;1264;100<=X<500;1<=X<4;2;masculino casado/viuvo;nenhum;2;seguro de vida;25;nenhum;alugada;1;especializado;1;sim;ruim
+0<=X<200;30;crítica / outros de crédito existente;mobilia/equipamento;8386;<100;4<=X<7;2;masculino solteiro;nenhum;2;seguro de vida;49;nenhum;própria;1;especializado;1;sim;ruim
+sem cheque;48;existente e pago;negócios;4844;<100;desempregado;3;masculino solteiro;nenhum;2;carro;33;banco;alugada;1;alta qualificação/autonomo/Gerente;1;sim;ruim
+>=200;21;existente e pago;carro novo;2923;100<=X<500;1<=X<4;1;fem div/cas;nenhum;1;carro;28;banco;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+<0;36;existente e pago;carro usado;8229;<100;1<=X<4;2;masculino solteiro;nenhum;2;seguro de vida;26;nenhum;própria;1;especializado;2;sim;ruim
+sem cheque;24;crítica / outros de crédito existente;mobilia/equipamento;2028;<100;4<=X<7;2;masculino solteiro;nenhum;2;seguro de vida;30;nenhum;própria;2;não especializado;1;sim;bom
+<0;15;crítica / outros de crédito existente;mobilia/equipamento;1433;<100;1<=X<4;4;fem div/cas;nenhum;3;seguro de vida;25;nenhum;alugada;2;especializado;1;sim;bom
+>=200;42;sem créditos/todos pagos;negócios;6289;<100;<1;2;masculino div/sep;nenhum;1;seguro de vida;33;nenhum;própria;2;especializado;1;sim;bom
+sem cheque;13;existente e pago;Computador/TV;1409;100<=X<500;desempregado;2;fem div/cas;nenhum;4;bens imóveis;64;nenhum;própria;1;especializado;1;sim;bom
+<0;24;existente e pago;carro usado;6579;<100;desempregado;4;masculino solteiro;nenhum;2;nenhuma conhecida;29;nenhum;gratuitamente;1;alta qualificação/autonomo/Gerente;1;sim;bom
+0<=X<200;24;crítica / outros de crédito existente;Computador/TV;1743;<100;>=7;4;masculino solteiro;nenhum;2;seguro de vida;48;nenhum;própria;2;não especializado;1;sim;bom
+sem cheque;12;crítica / outros de crédito existente;educação;3565;nenhuma economia conhecida;<1;2;masculino solteiro;nenhum;1;seguro de vida;37;nenhum;própria;2;não especializado;2;sim;bom
+sem cheque;15;todos pagos;Computador/TV;1569;100<=X<500;>=7;4;masculino solteiro;nenhum;4;carro;34;banco;própria;1;não especializado;2;sim;bom
+<0;18;existente e pago;Computador/TV;1936;nenhuma economia conhecida;4<=X<7;2;masculino casado/viuvo;nenhum;4;carro;23;nenhum;alugada;2;não especializado;1;sim;bom
+<0;36;existente e pago;mobilia/equipamento;3959;<100;desempregado;4;masculino solteiro;nenhum;3;seguro de vida;30;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;carro novo;2390;nenhuma economia conhecida;>=7;4;masculino solteiro;nenhum;3;carro;50;nenhum;própria;1;especializado;1;sim;bom
+sem cheque;12;existente e pago;mobilia/equipamento;1736;<100;4<=X<7;3;fem div/cas;nenhum;4;bens imóveis;31;nenhum;própria;1;não especializado;1;sim;bom
+<0;30;existente e pago;carro usado;3857;<100;1<=X<4;4;masculino div/sep;nenhum;4;seguro de vida;40;nenhum;própria;1;alta qualificação/autonomo/Gerente;1;sim;bom
+sem cheque;12;existente e pago;Computador/TV;804;<100;>=7;4;masculino solteiro;nenhum;4;carro;38;nenhum;própria;1;especializado;1;sim;bom
+<0;45;existente e pago;Computador/TV;1845;<100;1<=X<4;4;masculino solteiro;nenhum;4;nenhuma conhecida;23;nenhum;gratuitamente;1;especializado;1;sim;ruim
+0<=X<200;45;crítica / outros de crédito existente;carro usado;4576;100<=X<500;desempregado;3;masculino solteiro;nenhum;4;carro;27;nenhum;própria;1;especializado;1;sim;bom
